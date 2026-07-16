@@ -48,6 +48,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."

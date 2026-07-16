@@ -29,6 +29,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Supercharged metabolism: +1 Body, +1 Quickness, +1 Strength, +1 Reaction (the Quickness also feeds Reaction). Requires double food/drink; radiates heat (−1 TN for thermographic observers to notice). The Reaction bonus doesn't help rigging or decking (Shadowtech p.20)."

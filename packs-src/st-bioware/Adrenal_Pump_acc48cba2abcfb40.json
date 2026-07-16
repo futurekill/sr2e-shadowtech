@@ -48,6 +48,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": true,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."

@@ -57,6 +57,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "An energy-diffusing weave under the skin granting subdermal armor (adds to worn armor; not compatible with dermal plating) — Level 1 +1 Impact, Level 2 +1 Impact/+1 Ballistic, Level 3 +2 Impact/+1 Ballistic (Shadowtech p.17)."

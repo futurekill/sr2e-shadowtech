@@ -29,6 +29,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Boosts the body's clotting and repair, improving its ability to handle physical damage (Shadowtech p.14)."

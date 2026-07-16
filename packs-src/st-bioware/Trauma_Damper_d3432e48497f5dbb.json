@@ -29,6 +29,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Per wound, shifts one box of physical damage to the Mental monitor (or removes one box of mental damage); +2 TN to pain-based tasks against the user and −2 TN to resist pain. Doesn't work with an active Pain Editor (Shadowtech p.29). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."

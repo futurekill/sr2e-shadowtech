@@ -48,6 +48,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Secreted pheromones add +1 Charisma per Level to Charisma and Social Skill Tests (no effect on the astrally active or non-humanoids). Cultured doubles the effect (Shadowtech p.18)."

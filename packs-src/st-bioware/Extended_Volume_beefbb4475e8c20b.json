@@ -57,6 +57,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Increased lung volume: +45 seconds of breath-holding per Level and a −1 (Levels 1–2) or −2 (Level 3) TN modifier to stamina tests (Shadowtech p.31)."

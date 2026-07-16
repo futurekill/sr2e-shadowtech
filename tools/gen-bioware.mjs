@@ -33,6 +33,7 @@ function bioware(b) {
     armorBallistic: b.armorBallistic ?? 0, armorImpact: b.armorImpact ?? 0,
     attributeMods: Object.assign(ZMODS(), b.mods ?? {}),
     noReactionBonus: b.noReactionBonus ?? false,
+    activeSkillDice: b.activeSkillDice ?? 0,
     damageCompensator: b.damageCompensator ?? false,
     ignoresStunPenalty: b.ignoresStunPenalty ?? false,
     notes: stripTags(b.notes + (b.neural ? NEURAL : ""))
@@ -122,8 +123,8 @@ const ITEMS = [
     notes: "Reduces the Power Level of a non-microbiological air-vectored attack by ½ the filter's Level (round down). Breathing becomes harder while it works (0.2 Body Cost per Level, Shadowtech p.33)." },
   // ── Structural ───────────────────────────────────────────────────────────
   { name: "Enhanced Articulation", system: "structural", bodyCost: 0.6, cost: 40000, avail: "5/6 days", si: "1.5", legality: "Legal",
-    mods: { reaction: 1 },
-    notes: "Fluid joints and tendons: +1 die to any Active Skill Success Test, and +1 Reaction (no effect on rigging or pure cyber-decking) (Shadowtech p.34)." },
+    mods: { reaction: 1 }, activeSkillDice: 1,
+    notes: "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34)." },
   { name: "Muscle Augmentation", system: "structural", legality: "4P-BC/D",
     ratingStats: rated([[1,0.8,45000],[2,1.6,90000],[3,2.4,135000],[4,3.2,180000]], "6/6 days", ".9", "4P-BC/D"),
     mods: { strength: 1, quickness: 1 },

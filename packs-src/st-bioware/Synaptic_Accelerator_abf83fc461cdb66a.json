@@ -48,6 +48,7 @@
       "initiativeDice": 1
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "+1D6 Initiative die per Level (cumulative). Incompatible with boosted or wired reflexes; the bonus doesn't help rigging or decking (Shadowtech p.28). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."

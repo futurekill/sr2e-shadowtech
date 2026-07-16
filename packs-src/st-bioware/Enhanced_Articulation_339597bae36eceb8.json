@@ -29,9 +29,10 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 1,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test, and +1 Reaction (no effect on rigging or pure cyber-decking) (Shadowtech p.34)."
+    "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34)."
   },
   "effects": [],
   "flags": {},

@@ -29,6 +29,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": true,
     "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."

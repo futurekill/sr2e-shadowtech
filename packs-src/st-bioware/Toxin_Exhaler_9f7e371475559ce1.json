@@ -29,6 +29,7 @@
       "initiativeDice": 0
     },
     "noReactionBonus": false,
+    "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
     "notes": "Exhales a stored toxin (chosen at implantation, bought separately, +100× a dose) as a 2m cone: Quickness (4) Test to hit, +1 TN per ½m, range = ½ unaugmented Body. The user is immunized against that toxin (double natural Body to resist) (Shadowtech p.32)."
