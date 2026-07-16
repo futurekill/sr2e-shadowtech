@@ -1,0 +1,55 @@
+{
+  "_id": "d3432e48497f5dbb",
+  "name": "Trauma Damper",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0.4,
+    "rating": 1,
+    "cost": 40000,
+    "availability": "6/8 days",
+    "streetIndex": "2",
+    "legality": "6P-BA",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Per wound, shifts one box of physical damage to the Mental monitor (or removes one box of mental damage); +2 TN to pain-based tasks against the user and −2 TN to resist pain. Doesn't work with an active Pain Editor (Shadowtech p.29). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d3432e48497f5dbb"
+}

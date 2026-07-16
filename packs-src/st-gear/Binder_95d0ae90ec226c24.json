@@ -1,0 +1,43 @@
+{
+  "_id": "95d0ae90ec226c24",
+  "name": "Binder",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 1,
+    "quantity": 1,
+    "streetIndex": 2,
+    "weight": 0,
+    "cost": 300,
+    "availability": "4/32 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Tailored agent that binds and neutralizes toxins in the bloodstream; rating = potency. Price per Level: ×300¥ (L1–3), ×600¥ (L4–6), ×900¥ (L7–9), ×1,500¥ (L10+). Street Index 2 (Shadowtech p.78)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!95d0ae90ec226c24"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "736c9367b350ea54",
+  "name": "Doom",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 5,
+    "weight": 0,
+    "cost": 500,
+    "availability": "14/30 days",
+    "legality": "I-M3",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A designer pathogen (bioweapon). 500¥/dose. Illegal (I-M3), Availability 14/30 days, Street Index 5 (Shadowtech p.80)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!736c9367b350ea54"
+}

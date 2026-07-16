@@ -1,0 +1,74 @@
+{
+  "_id": "acc48cba2abcfb40",
+  "name": "Adrenal Pump",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "endocrine",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "5P-BB",
+    "installed": false,
+    "triggered": true,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 1.25,
+        "cost": 60000,
+        "availability": "10/16 days",
+        "streetIndex": "3",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 2.5,
+        "cost": 100000,
+        "availability": "10/16 days",
+        "streetIndex": "3",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 1,
+      "strength": 1,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 1,
+      "reaction": 2,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": true,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!acc48cba2abcfb40"
+}

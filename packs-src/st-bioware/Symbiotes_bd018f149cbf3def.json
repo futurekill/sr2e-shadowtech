@@ -1,0 +1,83 @@
+{
+  "_id": "bd018f149cbf3def",
+  "name": "Symbiotes",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "circulatory",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.4,
+        "cost": 15000,
+        "availability": "5/10 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.7,
+        "cost": 35000,
+        "availability": "5/10 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 1,
+        "cost": 60000,
+        "availability": "5/10 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Tailored nanite microorganisms in the bloodstream that add dice to resist damage, disease, and toxins. Require extra nutrients — triple food cost or a tailored diet (Shadowtech p.15)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bd018f149cbf3def"
+}

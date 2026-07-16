@@ -1,0 +1,74 @@
+{
+  "_id": "0cbfdc6dd3e7fde9",
+  "name": "Tailored Pheromones",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "dermal",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.4,
+        "cost": 20000,
+        "availability": "12/14 days",
+        "streetIndex": "2",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.6,
+        "cost": 45000,
+        "availability": "12/14 days",
+        "streetIndex": "2",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 1,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Secreted pheromones add +1 Charisma per Level to Charisma and Social Skill Tests (no effect on the astrally active or non-humanoids). Cultured doubles the effect (Shadowtech p.18)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0cbfdc6dd3e7fde9"
+}

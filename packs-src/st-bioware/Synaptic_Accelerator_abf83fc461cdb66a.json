@@ -1,0 +1,74 @@
+{
+  "_id": "abf83fc461cdb66a",
+  "name": "Synaptic Accelerator",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "5P-BB",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.3,
+        "cost": 75000,
+        "availability": "6/12 days",
+        "streetIndex": "2",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 1.6,
+        "cost": 200000,
+        "availability": "6/12 days",
+        "streetIndex": "2",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 1
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "+1D6 Initiative die per Level (cumulative). Incompatible with boosted or wired reflexes; the bonus doesn't help rigging or decking (Shadowtech p.28). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!abf83fc461cdb66a"
+}

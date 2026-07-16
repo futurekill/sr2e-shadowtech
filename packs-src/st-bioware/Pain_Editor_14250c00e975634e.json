@@ -1,0 +1,55 @@
+{
+  "_id": "14250c00e975634e",
+  "name": "Pain Editor",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0.6,
+    "rating": 1,
+    "cost": 60000,
+    "availability": "6/6 days",
+    "streetIndex": "1.2",
+    "legality": "6P-BA",
+    "installed": false,
+    "triggered": true,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": -1,
+      "willpower": 1,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": true,
+    "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!14250c00e975634e"
+}

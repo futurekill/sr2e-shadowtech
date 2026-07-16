@@ -1,0 +1,89 @@
+{
+  "_id": "4f9b302acf0cc5d1",
+  "name": "Tactical Computer",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 3.5,
+        "cost": 350000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "4-CB"
+      },
+      {
+        "rating": 2,
+        "essenceCost": 4,
+        "cost": 900000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "4-CC"
+      }
+    ],
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Marks up to (Level + Intelligence) targets and adds their Success Level in dice to attacks against them; its rating adds to Initiative (never exceeding the Reaction maximum, and no help to rigging/decking); embeds a Tactics expert system. Levels 3–4 are CLASSIFIED (2-CC / 1-CC). Extra senses and an Orientation System raise its effective level (Shadowtech p.53)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!4f9b302acf0cc5d1"
+}

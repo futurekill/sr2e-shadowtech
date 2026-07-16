@@ -1,0 +1,83 @@
+{
+  "_id": "350312bb13e32e20",
+  "name": "Tracheal Filter",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "respiratory",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.2,
+        "cost": 30000,
+        "availability": "4/4 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.4,
+        "cost": 60000,
+        "availability": "4/4 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 0.6,
+        "cost": 90000,
+        "availability": "4/4 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Reduces the Power Level of a non-microbiological air-vectored attack by ½ the filter's Level (round down). Breathing becomes harder while it works (0.2 Body Cost per Level, Shadowtech p.33)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!350312bb13e32e20"
+}

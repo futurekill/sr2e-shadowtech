@@ -1,0 +1,55 @@
+{
+  "_id": "9f7e371475559ce1",
+  "name": "Toxin Exhaler",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "respiratory",
+    "grade": "standard",
+    "bodyCost": 0.6,
+    "rating": 1,
+    "cost": 30000,
+    "availability": "10/4 days",
+    "streetIndex": "3",
+    "legality": "S-BB",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Exhales a stored toxin (chosen at implantation, bought separately, +100× a dose) as a 2m cone: Quickness (4) Test to hit, +1 TN per ½m, range = ½ unaugmented Body. The user is immunized against that toxin (double natural Body to resist) (Shadowtech p.32)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9f7e371475559ce1"
+}

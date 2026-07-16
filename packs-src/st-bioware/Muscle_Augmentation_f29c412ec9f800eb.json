@@ -1,0 +1,92 @@
+{
+  "_id": "f29c412ec9f800eb",
+  "name": "Muscle Augmentation",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "structural",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "4P-BC/D",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.8,
+        "cost": 45000,
+        "availability": "6/6 days",
+        "streetIndex": ".9",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 1.6,
+        "cost": 90000,
+        "availability": "6/6 days",
+        "streetIndex": ".9",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 2.4,
+        "cost": 135000,
+        "availability": "6/6 days",
+        "streetIndex": ".9",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 4,
+        "bodyCost": 3.2,
+        "cost": 180000,
+        "availability": "6/6 days",
+        "streetIndex": ".9",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 1,
+      "strength": 1,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Gortex-braided muscle: +1 Quickness and +1 Strength per Level (max Level 4; the Quickness DOES feed Reaction). Bonuses don't help rigging or decking except for lifting/carrying (Shadowtech p.35)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f29c412ec9f800eb"
+}

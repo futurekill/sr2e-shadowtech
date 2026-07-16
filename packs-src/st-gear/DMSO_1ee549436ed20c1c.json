@@ -1,0 +1,43 @@
+{
+  "_id": "1ee549436ed20c1c",
+  "name": "DMSO",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 1.5,
+    "weight": 0,
+    "cost": 10,
+    "availability": "2/12 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A carrier solvent that soaks through unbroken skin. Mixed with a drug or toxin it ferries that agent through the skin, effectively giving it a Contact vector. 10¥+. Street Index 1.5 (Shadowtech p.89)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1ee549436ed20c1c"
+}

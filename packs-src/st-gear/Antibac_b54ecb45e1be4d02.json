@@ -1,0 +1,43 @@
+{
+  "_id": "b54ecb45e1be4d02",
+  "name": "Antibac",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 1,
+    "quantity": 1,
+    "streetIndex": 1,
+    "weight": 0,
+    "cost": 500,
+    "availability": "4/48 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Broad-spectrum engineered antibiotic; rating = potency vs bacterial infection. Price per Level: ×500¥ (L1–3), ×1,000¥ (L4–6), ×1,500¥ (L7–9), ×2,500¥ (L10+). Availability 4/48 hrs (Shadowtech p.77)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b54ecb45e1be4d02"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "64b5f0dc8dc701c3",
+  "name": "Pathogenic Defense",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "lymphatic",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.2,
+        "cost": 24000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.4,
+        "cost": 48000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 0.6,
+        "cost": 72000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 4,
+        "bodyCost": 0.8,
+        "cost": 96000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 5,
+        "bodyCost": 1,
+        "cost": 120000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 6,
+        "bodyCost": 1.2,
+        "cost": 144000,
+        "availability": "4/4 days",
+        "streetIndex": "1.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Reduces the Power Level of a disease/allergen/microbiological attack by 1 per 2 Levels. Max Level = unaugmented Body (0.2 Body Cost per Level, Shadowtech p.22)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!64b5f0dc8dc701c3"
+}

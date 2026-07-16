@@ -1,0 +1,55 @@
+{
+  "_id": "339597bae36eceb8",
+  "name": "Enhanced Articulation",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "structural",
+    "grade": "standard",
+    "bodyCost": 0.6,
+    "rating": 1,
+    "cost": 40000,
+    "availability": "5/6 days",
+    "streetIndex": "1.5",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 1,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test, and +1 Reaction (no effect on rigging or pure cyber-decking) (Shadowtech p.34)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!339597bae36eceb8"
+}

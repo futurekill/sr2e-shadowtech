@@ -1,0 +1,60 @@
+{
+  "id": "sr2e-shadowtech",
+  "title": "Shadowrun 2E: Shadowtech",
+  "description": "Bioware, expanded cyberware, gene-tech, microbiologicals, and industrial chemistry from Shadowtech (FASA 7110) as compendia for the Shadowrun 2nd Edition system. Requires the bioware item type added in sr2e 0.36.0.",
+  "version": "0.3.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sr2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.36.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "James Candalino"
+    }
+  ],
+  "packs": [
+    {
+      "name": "st-bioware",
+      "label": "Shadowtech Bioware",
+      "path": "packs/st-bioware",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "st-cyberware",
+      "label": "Shadowtech Cyberware",
+      "path": "packs/st-cyberware",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "st-gear",
+      "label": "Shadowtech Gene-Tech & Chemistry",
+      "path": "packs/st-gear",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Shadowtech",
+      "sorting": "m",
+      "packs": ["st-bioware", "st-cyberware", "st-gear"]
+    }
+  ],
+  "flags": {}
+}

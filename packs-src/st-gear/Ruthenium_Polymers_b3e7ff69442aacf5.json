@@ -1,0 +1,43 @@
+{
+  "_id": "b3e7ff69442aacf5",
+  "name": "Ruthenium Polymers",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 7.5,
+    "weight": 0,
+    "cost": 10000,
+    "availability": "5/14 days",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Electro-optical polymer that shifts colour/temperature to match its surroundings — the basis of thermoptic/chameleon camouflage. 10,000¥ per m². Street Index 7.5 (Shadowtech p.89)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b3e7ff69442aacf5"
+}

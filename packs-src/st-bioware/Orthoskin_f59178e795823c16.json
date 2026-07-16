@@ -1,0 +1,83 @@
+{
+  "_id": "f59178e795823c16",
+  "name": "Orthoskin",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "dermal",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "SP-BA",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.5,
+        "cost": 25000,
+        "availability": "8/8 days",
+        "streetIndex": ".8",
+        "armorBallistic": 0,
+        "armorImpact": 1
+      },
+      {
+        "rating": 2,
+        "bodyCost": 1,
+        "cost": 60000,
+        "availability": "8/8 days",
+        "streetIndex": ".8",
+        "armorBallistic": 1,
+        "armorImpact": 1
+      },
+      {
+        "rating": 3,
+        "bodyCost": 1.5,
+        "cost": 100000,
+        "availability": "8/8 days",
+        "streetIndex": ".8",
+        "armorBallistic": 1,
+        "armorImpact": 2
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "An energy-diffusing weave under the skin granting subdermal armor (adds to worn armor; not compatible with dermal plating) — Level 1 +1 Impact, Level 2 +1 Impact/+1 Ballistic, Level 3 +2 Impact/+1 Ballistic (Shadowtech p.17)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f59178e795823c16"
+}

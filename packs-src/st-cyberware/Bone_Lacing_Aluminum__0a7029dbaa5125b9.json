@@ -1,0 +1,72 @@
+{
+  "_id": "0a7029dbaa5125b9",
+  "name": "Bone Lacing (Aluminum)",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 1.15,
+    "rating": 1,
+    "cost": 25000,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 1,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [],
+    "attributeMods": {
+      "body": 1,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Reinforced bones: +1 Body and +1 Impact armor (cumulative with worn), unarmed blows do (Str+2)M2. +10 kg weight; Barrier Rating 8; shows on metal detectors (Shadowtech p.42)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0a7029dbaa5125b9"
+}

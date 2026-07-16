@@ -1,0 +1,121 @@
+{
+  "_id": "6fd07681bb103777",
+  "name": "Gas Spectrometer",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.2,
+        "cost": 2000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.4,
+        "cost": 4000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.6,
+        "cost": 6000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.8,
+        "cost": 8000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 5,
+        "essenceCost": 1,
+        "cost": 10000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 6,
+        "essenceCost": 1.2,
+        "cost": 12000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      }
+    ],
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Housed in the sinuses; analyzes gases at Chemistry Skill = rating + 2 from a small sniff. Needs a display link or datajack for output; a chemical reference program adds compound names. Max Level 6 (Shadowtech p.61)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6fd07681bb103777"
+}

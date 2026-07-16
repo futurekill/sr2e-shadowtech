@@ -1,0 +1,83 @@
+{
+  "_id": "f3dc18a732f084d2",
+  "name": "Mnemonic Enhancer",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.2,
+        "cost": 15000,
+        "availability": "6/7 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.4,
+        "cost": 30000,
+        "availability": "6/7 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 0.6,
+        "cost": 45000,
+        "availability": "6/7 days",
+        "streetIndex": "",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "+1 die per Level to Intelligence Tests to recall information, and +1 die per 2 Levels to Knowledge and Language Success Tests. Max Level = unaugmented Body (Shadowtech p.25). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f3dc18a732f084d2"
+}

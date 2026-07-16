@@ -1,0 +1,72 @@
+{
+  "_id": "a2d70f17e1519a1d",
+  "name": "Bone Lacing (Titanium)",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 2.25,
+    "rating": 1,
+    "cost": 75000,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 1,
+    "armorImpact": 1,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [],
+    "attributeMods": {
+      "body": 2,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Reinforced bones: +2 Body, +1 Impact and +1 Ballistic armor (cumulative with worn), unarmed blows do (Str+3)M2. +15 kg weight; Barrier Rating 10; shows on metal detectors (Shadowtech p.42)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a2d70f17e1519a1d"
+}

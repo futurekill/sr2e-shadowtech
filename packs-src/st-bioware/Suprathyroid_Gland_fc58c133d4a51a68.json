@@ -1,0 +1,55 @@
+{
+  "_id": "fc58c133d4a51a68",
+  "name": "Suprathyroid Gland",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "endocrine",
+    "grade": "standard",
+    "bodyCost": 1.4,
+    "rating": 1,
+    "cost": 50000,
+    "availability": "8/12 days",
+    "streetIndex": "2.5",
+    "legality": "6P-BB",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 1,
+      "quickness": 1,
+      "strength": 1,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 1,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Supercharged metabolism: +1 Body, +1 Quickness, +1 Strength, +1 Reaction (the Quickness also feeds Reaction). Requires double food/drink; radiates heat (−1 TN for thermographic observers to notice). The Reaction bonus doesn't help rigging or decking (Shadowtech p.20)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fc58c133d4a51a68"
+}

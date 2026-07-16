@@ -1,0 +1,137 @@
+{
+  "_id": "10673ff02109f3b8",
+  "name": "Damage Compensator",
+  "type": "bioware",
+  "img": "icons/svg/biohazard.svg",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "6P-BA",
+    "installed": false,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [
+      {
+        "rating": 1,
+        "bodyCost": 0.2,
+        "cost": 25000,
+        "availability": "6/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 2,
+        "bodyCost": 0.4,
+        "cost": 50000,
+        "availability": "6/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 3,
+        "bodyCost": 0.6,
+        "cost": 150000,
+        "availability": "10/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 4,
+        "bodyCost": 0.8,
+        "cost": 200000,
+        "availability": "10/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 5,
+        "bodyCost": 1,
+        "cost": 250000,
+        "availability": "10/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 6,
+        "bodyCost": 1.2,
+        "cost": 600000,
+        "availability": "12/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 7,
+        "bodyCost": 1.4,
+        "cost": 700000,
+        "availability": "12/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 8,
+        "bodyCost": 1.6,
+        "cost": 800000,
+        "availability": "12/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      },
+      {
+        "rating": 9,
+        "bodyCost": 1.8,
+        "cost": 900000,
+        "availability": "12/6 days",
+        "streetIndex": "2.5",
+        "armorBallistic": 0,
+        "armorImpact": 0
+      }
+    ],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "damageCompensator": true,
+    "ignoresStunPenalty": false,
+    "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!10673ff02109f3b8"
+}

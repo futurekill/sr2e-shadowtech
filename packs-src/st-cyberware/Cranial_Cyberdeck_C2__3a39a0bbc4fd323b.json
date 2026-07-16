@@ -1,0 +1,72 @@
+{
+  "_id": "3a39a0bbc4fd323b",
+  "name": "Cranial Cyberdeck (C2)",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 44450,
+    "availability": "8/14 days",
+    "streetIndex": "",
+    "legality": "6P-CB",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "cranialDeck": true,
+    "deck": {
+      "active": false,
+      "mpcp": 6,
+      "hardening": 3,
+      "activeMemory": 300,
+      "storageMemory": 600,
+      "loadSpeed": 300,
+      "ioSpeed": 2,
+      "response": 1
+    },
+    "ratingStats": [],
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "A cyberdeck built into the skull. Operates exactly like a regular cyberdeck — activate it (⚡ on the Gear tab) to drive the Matrix tab. Essence is summed from its components: MPCP (Rating/10 + 0.1) + Persona Module 0.30 + Hardening 0.3 + Transfer 0.1 + Response 0.2. CAPS — MPCP max = 1.5 × Intelligence (round up); exceeding it costs +4 TN on EVERY action (automated). Persona module max = 75% of MPCP; Hardening max = ½ MPCP; Response max = MPCP/4. Active memory is MPCP × 50 Mp (dedicated); storage up to MPCP × 100 Mp. Transfer is capped by your datajack's DFR. Each Response level adds +2 Reaction while decking. Sample build shown is MPCP 6 (cost = Rating³ × 200¥ + 1,250¥); re-rate to taste (Shadowtech p.54–59)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3a39a0bbc4fd323b"
+}

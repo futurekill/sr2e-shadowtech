@@ -1,0 +1,105 @@
+{
+  "_id": "b56723b981d396da",
+  "name": "SPU: Data Management",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.1,
+        "cost": 9500,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.15,
+        "cost": 19000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.2,
+        "cost": 28500,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.25,
+        "cost": 38000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      }
+    ],
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Data-compression subprocessor: effective memory increases by +25% / +50% / +75% / +100% by Level (adds a Load Rating to SLD). Transparent to normal use (Shadowtech p.50)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b56723b981d396da"
+}

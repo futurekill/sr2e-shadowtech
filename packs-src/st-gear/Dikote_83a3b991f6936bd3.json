@@ -1,0 +1,43 @@
+{
+  "_id": "83a3b991f6936bd3",
+  "name": "Dikote",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 10,
+    "weight": 0,
+    "cost": 1000,
+    "availability": "6/14 days",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "An ultra-hard ceramic-metal coating; applied to a blade or surface it dramatically improves edge/durability (and melee damage). 1,000¥ per 100 cm³. Street Index 10 (Shadowtech p.89)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!83a3b991f6936bd3"
+}

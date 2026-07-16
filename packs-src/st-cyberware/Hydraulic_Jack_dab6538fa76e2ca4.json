@@ -1,0 +1,121 @@
+{
+  "_id": "dab6538fa76e2ca4",
+  "name": "Hydraulic Jack",
+  "type": "cyberware",
+  "img": "icons/svg/chip.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0.25,
+    "rating": 1,
+    "cost": 0,
+    "availability": "",
+    "streetIndex": "",
+    "legality": "Legal",
+    "installed": false,
+    "isWeapon": false,
+    "weaponType": "melee",
+    "skill": "armed combat",
+    "damageCode": "",
+    "damageType": "physical",
+    "reach": 0,
+    "combatTnMod": 0,
+    "isVcr": false,
+    "noReactionBonus": false,
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "cranialDeck": false,
+    "deck": {
+      "active": false,
+      "mpcp": 0,
+      "hardening": 0,
+      "activeMemory": 0,
+      "storageMemory": 0,
+      "loadSpeed": 0,
+      "ioSpeed": 0,
+      "response": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.25,
+        "cost": 5000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.25,
+        "cost": 10000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.25,
+        "cost": 15000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.25,
+        "cost": 20000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 5,
+        "essenceCost": 0.25,
+        "cost": 25000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      },
+      {
+        "rating": 6,
+        "essenceCost": 0.25,
+        "cost": 30000,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal"
+      }
+    ],
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "capacity": 0,
+    "modules": [],
+    "notes": "Installed in a cyberleg: multiplies max leaping distance/height by its Level, and reduces the Power Level of a fall by its Level (if you land on your feet — Athletics (5) Test). Cyberleg only (Shadowtech p.43)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dab6538fa76e2ca4"
+}
