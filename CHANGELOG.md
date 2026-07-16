@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.0 — 2026-07-16
+### Changed
+- **Now requires sr2e 0.38.0.** Bone Lacing carries `unarmedPowerBonus` and
+  Enhanced Articulation carries `activeSkillDice` — fields the system only added
+  in 0.38.0, which automate the two rules those items had been describing in their
+  notes without anything implementing them. On 0.37.0 the items would install and
+  the automation would silently not exist.
+
 ## 0.4.1 — 2026-07-16
 ### Fixed
 - **All 16 cyberware icons were broken.** They pointed at `icons/svg/chip.svg`,
