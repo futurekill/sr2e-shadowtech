@@ -22,6 +22,7 @@
     "combatTnMod": 0,
     "isVcr": false,
     "noReactionBonus": false,
+    "isTacticalComputer": false,
     "armorBallistic": 1,
     "armorImpact": 1,
     "cranialDeck": false,

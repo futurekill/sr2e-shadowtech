@@ -20,6 +20,7 @@ function cyber(c) {
     legality: c.legality ?? "Legal", installed: false,
     isWeapon: false, weaponType: "melee", skill: "armed combat", damageCode: "", damageType: "physical", reach: 0,
     combatTnMod: 0, isVcr: false, noReactionBonus: false,
+    isTacticalComputer: c.isTacticalComputer ?? false,
     armorBallistic: c.armorBallistic ?? 0, armorImpact: c.armorImpact ?? 0,
     cranialDeck: c.cranialDeck ?? false,
     deck: Object.assign(
@@ -75,7 +76,7 @@ const ITEMS = [
   { name: "SPU: Math", location: "headware", legality: "Legal",
     ratingStats: rated([[1,0.10,2000],[2,0.15,5000],[3,0.20,11000],[4,0.25,23000]]),
     notes: "Math subprocessor: adds its rating to Mathematics Tests and half its rating (round down) to Technical/Technical(B&R)/Sciences — including +½ rating to the Hacking Pool. Also a precise chronometer (Shadowtech p.52)." },
-  { name: "Tactical Computer", location: "headware",
+  { name: "Tactical Computer", location: "headware", isTacticalComputer: true,
     ratingStats: rated([[1,3.5,350000,"","","4-CB"],[2,4.0,900000,"","","4-CC"]]),
     notes: "Marks up to (Level + Intelligence) targets and adds their Success Level in dice to attacks against them; its rating adds to Initiative (never exceeding the Reaction maximum, and no help to rigging/decking); embeds a Tactics expert system. Levels 3–4 are CLASSIFIED (2-CC / 1-CC). Extra senses and an Orientation System raise its effective level (Shadowtech p.53)." },
   // ── Matrixware: the cranial cyberdeck ("C2", p.54–59) ─────────────────────
