@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.0 — 2026-07-16
+### Changed
+- **Now requires sr2e 0.37.0.** The Tactical Computer carries the system's new
+  `isTacticalComputer` flag, which automates its Initiative bonus (rating added to
+  Initiative, capped at the natural Reaction maximum — Shadowtech p.53). On 0.36.0
+  the item would install and silently do nothing, so the minimum is raised rather
+  than shipping a dead flag.
+
 ## 0.3.0 — 2026-07-15
 ### Added
 - **Shadowtech Cyberware** compendium — 15 items from the Cybertechnology chapter
