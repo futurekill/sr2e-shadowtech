@@ -23,6 +23,7 @@
     "isVcr": false,
     "noReactionBonus": false,
     "isTacticalComputer": false,
+    "unarmedPowerBonus": 1,
     "armorBallistic": 0,
     "armorImpact": 0,
     "cranialDeck": false,
@@ -49,7 +50,7 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Reinforced bones: +1 Body, unarmed blows do (Str+1)M2 (may instead do Physical at half Power, round up). +5 kg weight; Barrier Rating 6; doesn't show on metal detectors (Shadowtech p.42)."
+    "notes": "Reinforced bones: +1 Body, unarmed blows become (Str+1)M — automated (the book prints the 1e code (Str+1)M2; SR2 staging is always 2, so the digit is dropped). May instead do Physical at half Power, round up (not automated — halve it by hand). +5 kg weight; Barrier Rating 6; doesn't show on metal detectors (Shadowtech p.42)."
   },
   "effects": [],
   "flags": {},

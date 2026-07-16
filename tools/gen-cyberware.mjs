@@ -21,6 +21,7 @@ function cyber(c) {
     isWeapon: false, weaponType: "melee", skill: "armed combat", damageCode: "", damageType: "physical", reach: 0,
     combatTnMod: 0, isVcr: false, noReactionBonus: false,
     isTacticalComputer: c.isTacticalComputer ?? false,
+    unarmedPowerBonus: c.unarmedPowerBonus ?? 0,
     armorBallistic: c.armorBallistic ?? 0, armorImpact: c.armorImpact ?? 0,
     cranialDeck: c.cranialDeck ?? false,
     deck: Object.assign(
@@ -44,12 +45,12 @@ const rated = (rows) => rows.map(([rating, essenceCost, cost, availability = "",
 
 const ITEMS = [
   // ── Bodyware ──────────────────────────────────────────────────────────────
-  { name: "Bone Lacing (Plastic)", location: "bodyware", essenceCost: 0.50, cost: 7500, mods: { body: 1 },
-    notes: "Reinforced bones: +1 Body, unarmed blows do (Str+1)M2 (may instead do Physical at half Power, round up). +5 kg weight; Barrier Rating 6; doesn't show on metal detectors (Shadowtech p.42)." },
-  { name: "Bone Lacing (Aluminum)", location: "bodyware", essenceCost: 1.15, cost: 25000, mods: { body: 1 }, armorImpact: 1,
-    notes: "Reinforced bones: +1 Body and +1 Impact armor (cumulative with worn), unarmed blows do (Str+2)M2. +10 kg weight; Barrier Rating 8; shows on metal detectors (Shadowtech p.42)." },
-  { name: "Bone Lacing (Titanium)", location: "bodyware", essenceCost: 2.25, cost: 75000, mods: { body: 2 }, armorImpact: 1, armorBallistic: 1,
-    notes: "Reinforced bones: +2 Body, +1 Impact and +1 Ballistic armor (cumulative with worn), unarmed blows do (Str+3)M2. +15 kg weight; Barrier Rating 10; shows on metal detectors (Shadowtech p.42)." },
+  { name: "Bone Lacing (Plastic)", location: "bodyware", essenceCost: 0.50, cost: 7500, mods: { body: 1 }, unarmedPowerBonus: 1,
+    notes: "Reinforced bones: +1 Body, unarmed blows become (Str+1)M — automated (the book prints the 1e code (Str+1)M2; SR2 staging is always 2, so the digit is dropped). May instead do Physical at half Power, round up (not automated — halve it by hand). +5 kg weight; Barrier Rating 6; doesn't show on metal detectors (Shadowtech p.42)." },
+  { name: "Bone Lacing (Aluminum)", location: "bodyware", essenceCost: 1.15, cost: 25000, mods: { body: 1 }, armorImpact: 1, unarmedPowerBonus: 2,
+    notes: "Reinforced bones: +1 Body and +1 Impact armor (cumulative with worn), unarmed blows become (Str+2)M — automated. May instead do Physical at half Power, round up (not automated). +10 kg weight; Barrier Rating 8; shows on metal detectors (Shadowtech p.42)." },
+  { name: "Bone Lacing (Titanium)", location: "bodyware", essenceCost: 2.25, cost: 75000, mods: { body: 2 }, armorImpact: 1, armorBallistic: 1, unarmedPowerBonus: 3,
+    notes: "Reinforced bones: +2 Body, +1 Impact and +1 Ballistic armor (cumulative with worn), unarmed blows become (Str+3)M — automated. May instead do Physical at half Power, round up (not automated). +15 kg weight; Barrier Rating 10; shows on metal detectors (Shadowtech p.42)." },
   { name: "Skillwire Plus", location: "bodyware", legality: "Legal",
     ratingStats: rated([
       [1,0.1,15000,"4/10 days","","Legal"],[2,0.2,30000,"4/10 days","","Legal"],[3,0.3,45000,"4/10 days","","Legal"],

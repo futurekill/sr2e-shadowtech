@@ -23,6 +23,7 @@
     "isVcr": false,
     "noReactionBonus": false,
     "isTacticalComputer": false,
+    "unarmedPowerBonus": 3,
     "armorBallistic": 1,
     "armorImpact": 1,
     "cranialDeck": false,
@@ -49,7 +50,7 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Reinforced bones: +2 Body, +1 Impact and +1 Ballistic armor (cumulative with worn), unarmed blows do (Str+3)M2. +15 kg weight; Barrier Rating 10; shows on metal detectors (Shadowtech p.42)."
+    "notes": "Reinforced bones: +2 Body, +1 Impact and +1 Ballistic armor (cumulative with worn), unarmed blows become (Str+3)M — automated. May instead do Physical at half Power, round up (not automated). +15 kg weight; Barrier Rating 10; shows on metal detectors (Shadowtech p.42)."
   },
   "effects": [],
   "flags": {},

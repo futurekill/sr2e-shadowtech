@@ -23,6 +23,7 @@
     "isVcr": false,
     "noReactionBonus": false,
     "isTacticalComputer": false,
+    "unarmedPowerBonus": 0,
     "armorBallistic": 0,
     "armorImpact": 0,
     "cranialDeck": true,
