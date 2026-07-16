@@ -2,7 +2,7 @@
   "_id": "6bcb4b85aa1c98ef",
   "name": "Chemical Analyzer",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "44f200bdd2826fcd",
   "name": "Orientation System",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "headware",
     "grade": "standard",

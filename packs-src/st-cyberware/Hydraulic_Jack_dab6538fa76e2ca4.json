@@ -2,7 +2,7 @@
   "_id": "dab6538fa76e2ca4",
   "name": "Hydraulic Jack",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

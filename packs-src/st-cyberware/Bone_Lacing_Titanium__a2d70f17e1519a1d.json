@@ -2,7 +2,7 @@
   "_id": "a2d70f17e1519a1d",
   "name": "Bone Lacing (Titanium)",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "bodyware",
     "grade": "standard",

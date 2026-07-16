@@ -2,7 +2,7 @@
   "_id": "b71df0e525220f05",
   "name": "Datajack (Improved)",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "headware",
     "grade": "standard",

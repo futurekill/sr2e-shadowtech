@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.1 — 2026-07-16
+### Fixed
+- **All 16 cyberware icons were broken.** They pointed at `icons/svg/chip.svg`,
+  which isn't a Foundry core icon — it doesn't exist, so every entry in the
+  Shadowtech Cyberware compendium rendered as a broken image. Now
+  `icons/svg/upgrade.svg`, the same icon the system's own cyberware pack uses.
+  Fixed in the generator. (Bioware and gear were unaffected — `biohazard.svg` and
+  `item-bag.svg` are real.)
+
 ## 0.4.0 — 2026-07-16
 ### Changed
 - **Now requires sr2e 0.37.0.** The Tactical Computer carries the system's new

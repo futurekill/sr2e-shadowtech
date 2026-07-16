@@ -2,7 +2,7 @@
   "_id": "e9c5f1ae83b435e1",
   "name": "Softlink",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -32,7 +32,7 @@ function cyber(c) {
     notes: c.notes ?? ""
   };
   return {
-    _id, name: c.name, type: "cyberware", img: c.img ?? "icons/svg/chip.svg",
+    _id, name: c.name, type: "cyberware", img: c.img ?? "icons/svg/upgrade.svg",
     system, effects: [], flags: {}, folder: null, sort: 0,
     _stats: { coreVersion: "13.351", systemId: "sr2e", systemVersion: "0.1.0", createdTime: 1784000000000, modifiedTime: 1784000000000, lastModifiedBy: null, compendiumSource: null, duplicateSource: null, exportSource: null },
     ownership: { default: 0 }, _key: `!items!${_id}`

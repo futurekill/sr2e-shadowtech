@@ -2,7 +2,7 @@
   "_id": "0a7029dbaa5125b9",
   "name": "Bone Lacing (Aluminum)",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "bodyware",
     "grade": "standard",

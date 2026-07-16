@@ -2,7 +2,7 @@
   "_id": "3a39a0bbc4fd323b",
   "name": "Cranial Cyberdeck (C2)",
   "type": "cyberware",
-  "img": "icons/svg/chip.svg",
+  "img": "icons/svg/upgrade.svg",
   "system": {
     "location": "headware",
     "grade": "standard",
