@@ -2,8 +2,10 @@
 
 Content module for the **Shadowtech** sourcebook (FASA 7110), riding the sr2e
 system. Mirrors the `sr2e-fields-of-fire` pattern: compendium content only, **no
-esmodules**. Requires sr2e ≥ 0.37.0 (the `bioware` item type + Body Index, and the
-`isTacticalComputer` flag the Tactical Computer relies on).
+esmodules**. Requires sr2e ≥ 0.38.0 (the `bioware` item type + Body Index from
+0.36.0, the Tactical Computer's `isTacticalComputer` Initiative automation from
+0.37.0, and Bone Lacing's `unarmedPowerBonus` + Enhanced Articulation's
+`activeSkillDice` from 0.38.0).
 
 ## Workflow
 - `packs-src/<pack>/*.json` is the source of truth (one document per file).

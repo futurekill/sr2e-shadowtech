@@ -3,9 +3,11 @@
 Compendium content from **Shadowtech** (FASA 7110) for the
 [sr2e](https://github.com/futurekill/sr2e-foundryvtt) Foundry VTT system.
 
-> **Requires sr2e ≥ 0.36.0** — that release adds the `bioware` item type and the
-> Body Index mechanic this module's bioware relies on. Foundry will refuse to
-> enable the module against an older system.
+> **Requires sr2e ≥ 0.38.0.** The `bioware` type and Body Index landed in 0.36.0,
+> the Tactical Computer's Initiative automation in 0.37.0, and Bone Lacing's
+> unarmed-Power and Enhanced Articulation's +1-die automation in 0.38.0. On an
+> older system Foundry refuses to enable the module (or, worse, those items would
+> install and silently do nothing). See the CHANGELOG for the per-version detail.
 
 ## Packs
 - **Shadowtech Bioware** (`st-bioware`) — 22 bioware implants (Shadowtech p.14–35,
