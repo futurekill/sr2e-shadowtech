@@ -2,7 +2,7 @@
   "_id": "bd018f149cbf3def",
   "name": "Symbiotes",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/symbiotes.webp",
   "system": {
     "bodySystem": "circulatory",
     "grade": "standard",

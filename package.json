@@ -1,12 +1,15 @@
 {
   "name": "sr2e-shadowtech",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "private": true,
   "type": "module",
   "scripts": {
     "build-packs": "node tools/build-packs.mjs",
     "extract-packs": "node tools/extract-packs.mjs",
-    "validate": "node tools/validate-packs.mjs"
+    "validate": "node tools/validate-packs.mjs",
+    "art": "node tools/set-art.mjs"
   },
-  "devDependencies": { "classic-level": "^3.0.0" }
+  "devDependencies": {
+    "classic-level": "^3.0.0"
+  }
 }

@@ -2,7 +2,7 @@
   "_id": "2a9eb631f426d6bd",
   "name": "Nephritic Screen",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/nephritic-screen.webp",
   "system": {
     "bodySystem": "renal",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "acc48cba2abcfb40",
   "name": "Adrenal Pump",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/adrenal-pump.webp",
   "system": {
     "bodySystem": "endocrine",
     "grade": "standard",

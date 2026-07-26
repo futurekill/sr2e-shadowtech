@@ -2,7 +2,7 @@
   "_id": "44f200bdd2826fcd",
   "name": "Orientation System",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/cyberware/orientation-system.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

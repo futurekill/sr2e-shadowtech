@@ -2,7 +2,7 @@
   "_id": "40958403d94eeef2",
   "name": "Toxin Extractor",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/toxin-extractor.webp",
   "system": {
     "bodySystem": "hepatic",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "10673ff02109f3b8",
   "name": "Damage Compensator",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/damage-compensator.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

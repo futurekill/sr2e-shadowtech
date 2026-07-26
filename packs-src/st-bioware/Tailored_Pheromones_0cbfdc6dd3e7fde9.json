@@ -2,7 +2,7 @@
   "_id": "0cbfdc6dd3e7fde9",
   "name": "Tailored Pheromones",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/tailored-pheromones.webp",
   "system": {
     "bodySystem": "dermal",
     "grade": "standard",

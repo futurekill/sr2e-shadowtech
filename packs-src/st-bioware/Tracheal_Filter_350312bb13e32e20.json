@@ -2,7 +2,7 @@
   "_id": "350312bb13e32e20",
   "name": "Tracheal Filter",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/tracheal-filter.webp",
   "system": {
     "bodySystem": "respiratory",
     "grade": "standard",

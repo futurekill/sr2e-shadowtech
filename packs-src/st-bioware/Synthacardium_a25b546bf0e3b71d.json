@@ -2,7 +2,7 @@
   "_id": "a25b546bf0e3b71d",
   "name": "Synthacardium",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/synthacardium.webp",
   "system": {
     "bodySystem": "circulatory",
     "grade": "standard",

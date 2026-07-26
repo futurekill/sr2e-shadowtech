@@ -2,7 +2,7 @@
   "_id": "f29c412ec9f800eb",
   "name": "Muscle Augmentation",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/muscle-augmentation.webp",
   "system": {
     "bodySystem": "structural",
     "grade": "standard",

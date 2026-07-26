@@ -2,7 +2,7 @@
   "_id": "64b5f0dc8dc701c3",
   "name": "Pathogenic Defense",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/pathogenic-defense.webp",
   "system": {
     "bodySystem": "lymphatic",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "f3dc18a732f084d2",
   "name": "Mnemonic Enhancer",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/mnemonic-enhancer.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

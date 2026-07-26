@@ -2,7 +2,7 @@
   "_id": "d3432e48497f5dbb",
   "name": "Trauma Damper",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/trauma-damper.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

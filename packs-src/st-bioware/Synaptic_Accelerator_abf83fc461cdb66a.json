@@ -2,7 +2,7 @@
   "_id": "abf83fc461cdb66a",
   "name": "Synaptic Accelerator",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/synaptic-accelerator.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

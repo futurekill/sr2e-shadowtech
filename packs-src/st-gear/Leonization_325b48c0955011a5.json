@@ -2,7 +2,7 @@
   "_id": "325b48c0955011a5",
   "name": "Leonization",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/leonization.webp",
   "system": {
     "category": "general",
     "rating": 0,

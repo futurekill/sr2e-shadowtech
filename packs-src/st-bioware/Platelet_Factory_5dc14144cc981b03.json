@@ -2,7 +2,7 @@
   "_id": "5dc14144cc981b03",
   "name": "Platelet Factory",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/platelet-factory.webp",
   "system": {
     "bodySystem": "circulatory",
     "grade": "standard",

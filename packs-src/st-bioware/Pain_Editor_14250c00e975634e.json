@@ -2,7 +2,7 @@
   "_id": "14250c00e975634e",
   "name": "Pain Editor",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/pain-editor.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

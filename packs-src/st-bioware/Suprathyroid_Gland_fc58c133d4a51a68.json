@@ -2,7 +2,7 @@
   "_id": "fc58c133d4a51a68",
   "name": "Suprathyroid Gland",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/suprathyroid-gland.webp",
   "system": {
     "bodySystem": "endocrine",
     "grade": "standard",

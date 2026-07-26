@@ -2,7 +2,7 @@
   "_id": "83a3b991f6936bd3",
   "name": "Dikote",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/dikote.webp",
   "system": {
     "category": "general",
     "rating": 0,

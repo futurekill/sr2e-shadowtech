@@ -2,7 +2,7 @@
   "_id": "beefbb4475e8c20b",
   "name": "Extended Volume",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/extended-volume.webp",
   "system": {
     "bodySystem": "respiratory",
     "grade": "standard",

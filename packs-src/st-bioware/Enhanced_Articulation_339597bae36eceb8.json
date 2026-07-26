@@ -2,7 +2,7 @@
   "_id": "339597bae36eceb8",
   "name": "Enhanced Articulation",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/enhanced-articulation.webp",
   "system": {
     "bodySystem": "structural",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "bca4fdaee6a77912",
   "name": "Cerebral Booster",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/cerebral-booster.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

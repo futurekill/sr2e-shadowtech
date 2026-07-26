@@ -2,7 +2,7 @@
   "_id": "6fac01c3ca92526c",
   "name": "Reflex Recorder (General)",
   "type": "bioware",
-  "img": "icons/svg/biohazard.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/reflex-recorder-general.webp",
   "system": {
     "bodySystem": "neural",
     "grade": "standard",

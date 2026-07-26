@@ -2,7 +2,7 @@
   "_id": "a2d70f17e1519a1d",
   "name": "Bone Lacing (Titanium)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/cyberware/bone-lacing-titanium.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",
