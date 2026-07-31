@@ -83,7 +83,8 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Replaces the chipjack: one softlink accepts up to 4 chips (Level = ports). Active skillsofts still need skillwires. Increases system load delay under heavy chip load (Shadowtech p.46)."
+    "notes": "Replaces the chipjack: one softlink accepts up to 4 chips (Level = ports). Active skillsofts still need skillwires. Increases system load delay under heavy chip load (Shadowtech p.46). Declares accessPorts so the system counts it as a chip reader; ports = Level, so raise accessPorts to match a higher-Level softlink.",
+    "accessPorts": 1
   },
   "effects": [],
   "flags": {},
