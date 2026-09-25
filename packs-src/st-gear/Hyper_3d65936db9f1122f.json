@@ -1,0 +1,63 @@
+{
+  "_id": "3d65936db9f1122f",
+  "name": "Hyper",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 0.9,
+    "weight": 0,
+    "cost": 180,
+    "availability": "4/24 hrs",
+    "legality": "4-M1",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Direct neural stimulator. Rating 4S Stun (printed 4S2), Speed immediate, Vector air and injection, 180¥/dose; lasts 60 minutes less 5 per Body success. 4-M1, 4/24 hrs, Street Index .9 (Shadowtech p.98)."
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "hyper",
+        "damage": {
+          "power": 4,
+          "level": "S",
+          "type": "stun"
+        },
+        "repeatMinutes": 0,
+        "duration": {
+          "minutes": 60,
+          "bodyReducesBy": 5
+        },
+        "addiction": null,
+        "tolerance": 0,
+        "strength": 0,
+        "notes": "Vertigo: +1 to all TNs; +4 to concentration tasks (spellcasting included); any damage taken while it lasts adds half its boxes (round up) as Stun — the GM applies these (Shadowtech p.98)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3d65936db9f1122f"
+}

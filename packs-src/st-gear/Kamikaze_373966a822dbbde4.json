@@ -1,0 +1,122 @@
+{
+  "_id": "373966a822dbbde4",
+  "name": "Kamikaze",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 5,
+    "weight": 0,
+    "cost": 50,
+    "availability": "5/4 days",
+    "legality": "3-M1",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Tailored amphetamine combat drug: +1 Body, +1 Quickness, +2 Strength, +1 Willpower, +1D6 Initiative for 10–60 minutes (10 × 1D6). Addiction 4P, Tolerance 2, Strength 4, 50¥/dose. 3-M1, 5/4 days, Street Index 5 (Shadowtech p.99)."
+  },
+  "effects": [
+    {
+      "_id": "097bc34f5c2d4aa6",
+      "name": "Kamikaze",
+      "img": "icons/svg/pill.svg",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.body.mod",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.quickness.mod",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.strength.mod",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.willpower.mod",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.initiative.mod",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {},
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "flags": {},
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1784000000000,
+        "modifiedTime": 1784000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "kamikaze",
+        "damage": null,
+        "repeatMinutes": 0,
+        "duration": {
+          "minutes": "10*1d6"
+        },
+        "addiction": {
+          "rating": 4,
+          "P": true,
+          "M": false
+        },
+        "tolerance": 2,
+        "strength": 4,
+        "notes": "Also negates the first 4 boxes of damage taken after it's administered (any mix of Physical and Mental) — the GM applies it. Every 4 uses cost a box off both monitors' maximum; after (Body ÷ 2) uses, cyberware and bioware stop working (Shadowtech p.99)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!373966a822dbbde4"
+}

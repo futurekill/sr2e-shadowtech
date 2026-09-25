@@ -1,5 +1,25 @@
 # Changelog
 
+## Unreleased
+### Added
+- **Drugs and toxins** (Shadowtech p.95–100), in the Shadowtech Gear
+  compendium: **ACTH Inhaler** (6 doses), **Atropine**, **Cyanide**, **Hyper**,
+  **Kamikaze**, **MAO** and the **MAO Injector** (6 doses, no Stun), plus the
+  **Ares Squirt** dart gun (p.92). All values were read from the rendered
+  pages and the Equipment Table.
+  - Each carries its data for the system's **Use a dose**: damage code,
+    duration, addiction, tolerance and strength, plus notes for the GM.
+  - Kamikaze and MAO carry their attribute and Initiative effects.
+  - On an sr2e version without Use a dose, they install as ordinary gear.
+- The printed first-edition codes (5D2, 4S2 …) use Staging 2, SR II's fixed
+  staging, so they carry over unchanged (core p.277–278).
+- `tools/gen-drugs.mjs` writes only these items and keeps any image already
+  set, so re-running it never un-wires item art.
+
+### Changed
+- Dev notes: cultured bioware's ×4 price **is** applied by the system now,
+  and a neural implant set to Cultured no longer double-counts.
+
 ## 0.5.0 — 2026-07-16
 ### Changed
 - **Now requires sr2e 0.38.0.** Bone Lacing carries `unarmedPowerBonus` and

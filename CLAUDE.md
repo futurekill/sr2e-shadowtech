@@ -24,4 +24,14 @@ scan (don't guess silently) — ask for a clean capture.
 Neural bioware is inherently cultured and its printed Body Cost ALREADY includes
 the 0.75× reduction. Store neural items at **standard** grade with the printed
 value (grade `cultured` would double-reduce). Non-neural items are standard; the
-GM may switch grade to cultured in Foundry for the 0.75× (nuyen ×4 not auto-applied).
+GM may switch grade to cultured in Foundry for the 0.75× and ×4 price (both
+applied by the system). The system also ignores the grade on neural bioware, so
+a neural item set to Cultured no longer double-reduces either.
+
+## Drugs and toxins (p.95–100)
+`tools/gen-drugs.mjs` writes the compounds and the Ares Squirt. Each drug is
+`gear` (category `drug`) whose `flags.sr2e.drug` drives the system's Use a
+dose: `{key, damage, repeatMinutes, duration, addiction, tolerance, strength,
+notes}`. Attribute effects are item Active Effects (numeric ADD, transfer
+false). Unlike `gen-gear.mjs`, it keeps an existing file's `img`, so it is safe
+to re-run after art is set.

@@ -1,0 +1,105 @@
+{
+  "_id": "564f7b709244b519",
+  "name": "MAO",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 2,
+    "weight": 0,
+    "cost": 280,
+    "availability": "5/36 hrs",
+    "legality": "4-M1",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Monoamine oxidase. Rating 10L Stun (printed 10L2), Speed immediate, Vector injection, 280¥/dose; −1 Reaction and −1D6 Initiative for 10 turns less Body successes. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100)."
+  },
+  "effects": [
+    {
+      "_id": "80cd7efd33abc38a",
+      "name": "MAO",
+      "img": "icons/svg/pill.svg",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.reaction.mod",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        },
+        {
+          "key": "system.initiative.mod",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {},
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "flags": {},
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1784000000000,
+        "modifiedTime": 1784000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "mao",
+        "damage": {
+          "power": 10,
+          "level": "L",
+          "type": "stun"
+        },
+        "repeatMinutes": 0,
+        "duration": {
+          "turns": 10,
+          "bodyReducesBy": 1
+        },
+        "addiction": null,
+        "tolerance": 0,
+        "strength": 0,
+        "notes": "No defence against the Reaction and Initiative loss. An active adrenal pump gives only its Reaction bonus (Level 1) or acts as Level 1 for other attributes (Level 2). Further doses have no effect until it's flushed out (Shadowtech p.100)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!564f7b709244b519"
+}

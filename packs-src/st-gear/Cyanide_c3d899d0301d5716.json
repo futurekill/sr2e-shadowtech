@@ -1,0 +1,60 @@
+{
+  "_id": "c3d899d0301d5716",
+  "name": "Cyanide",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 1,
+    "streetIndex": 0.5,
+    "weight": 0,
+    "cost": 360,
+    "availability": "3/48 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Rating 4D (printed 4D2), Speed immediate/1 minute, Vector air, ingestion, injection, 360¥/dose. Legal, 3/48 hrs, Street Index .5 (Shadowtech p.97)."
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "cyanide",
+        "damage": {
+          "power": 4,
+          "level": "D",
+          "type": "physical"
+        },
+        "repeatMinutes": 0,
+        "duration": null,
+        "addiction": null,
+        "tolerance": 0,
+        "strength": 0,
+        "notes": "Takes effect at once if inhaled, after 1 minute otherwise; an oxidizing agent applied immediately neutralises it (Shadowtech p.97)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c3d899d0301d5716"
+}

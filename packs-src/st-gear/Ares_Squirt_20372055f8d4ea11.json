@@ -1,0 +1,60 @@
+{
+  "_id": "20372055f8d4ea11",
+  "name": "Ares Squirt",
+  "type": "weapon",
+  "img": "icons/svg/pistol.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "Special",
+    "damageType": "physical",
+    "concealability": 7,
+    "reach": 0,
+    "firingModes": {
+      "ss": true,
+      "sa": false,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 10,
+      "max": 10,
+      "type": "cartridge"
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 5,
+      "medium": 15,
+      "long": 30,
+      "extreme": 50
+    },
+    "strengthMin": 0,
+    "weight": 1.75,
+    "cost": 750,
+    "availability": "8/3 days",
+    "legality": "4-E",
+    "equipped": false,
+    "accessories": [],
+    "streetIndex": 2,
+    "notes": "Silent, recoilless compressed-air dart gun from Ares Arms: load a chemical cartridge (10 shots) and the DMSO gel reservoir (20 shots; 250¥ per refill), and a solid hit delivers the compound through the skin — armoured targets are no problem. Damage is the compound's. Light pistol ranges; no firing mode is printed (single shot assumed). Shadowtech p.92."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!20372055f8d4ea11"
+}

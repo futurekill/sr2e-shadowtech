@@ -1,0 +1,60 @@
+{
+  "_id": "de15746d64b8e632",
+  "name": "ACTH Inhaler",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 6,
+    "streetIndex": 1,
+    "weight": 0,
+    "cost": 100,
+    "availability": "5/12 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Adrenocorticotrophic hormone in an inhaler of six doses. Triggers voluntary activation of the adrenal pump. Addiction 0, Tolerance 2, Strength 25. 100¥ for 6 doses and inhaler. Legal, 5/12 hrs, Street Index 1 (Shadowtech p.95)."
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "acth",
+        "damage": null,
+        "repeatMinutes": 0,
+        "duration": null,
+        "addiction": {
+          "rating": 0,
+          "P": false,
+          "M": false
+        },
+        "tolerance": 2,
+        "strength": 25,
+        "notes": "Instantly activates an adrenal pump (bioware) — the GM applies the pump. Not addictive, but tolerance builds (Shadowtech p.95)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!de15746d64b8e632"
+}

@@ -1,0 +1,101 @@
+{
+  "_id": "3c261cf31439e434",
+  "name": "MAO Injector",
+  "type": "gear",
+  "img": "icons/svg/pill.svg",
+  "system": {
+    "category": "drug",
+    "rating": 0,
+    "quantity": 6,
+    "streetIndex": 2,
+    "weight": 0,
+    "cost": 320,
+    "availability": "5/36 hrs",
+    "legality": "4-M1",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A six-dose MAO injector: the effect without the Stun attack. 320¥ for six doses. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100)."
+  },
+  "effects": [
+    {
+      "_id": "7758f975b0fe4cd7",
+      "name": "MAO Injector",
+      "img": "icons/svg/pill.svg",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.reaction.mod",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        },
+        {
+          "key": "system.initiative.mod",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {},
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "flags": {},
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1784000000000,
+        "modifiedTime": 1784000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "sr2e": {
+      "drug": {
+        "key": "mao",
+        "damage": null,
+        "repeatMinutes": 0,
+        "duration": {
+          "turns": 10,
+          "bodyReducesBy": 1
+        },
+        "addiction": null,
+        "tolerance": 0,
+        "strength": 0,
+        "notes": "The injector's controlled dose inflicts no Stun damage — used to counter a random adrenal pump activation (Shadowtech p.100)."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3c261cf31439e434"
+}
