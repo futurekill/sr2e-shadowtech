@@ -39,7 +39,14 @@
         "addiction": null,
         "tolerance": 0,
         "strength": 0,
-        "notes": "Vertigo: +1 to all TNs; +4 to concentration tasks (spellcasting included); any damage taken while it lasts adds half its boxes (round up) as Stun — the GM applies these (Shadowtech p.98)."
+        "notes": "Applied automatically while active: +1 to all TNs, +4 more on spellcasting, and any damage taken adds half its boxes (round up) as Stun. Other concentration tasks' +4 is the GM's (Shadowtech p.98).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": true,
+        "tn": {
+          "all": 1,
+          "spell": 4
+        }
       }
     }
   },

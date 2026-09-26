@@ -14,6 +14,9 @@ enabled. Automated: `npm run validate` and `npm run lint` (CI).
   Initiative die. **Active drugs** shows "N min left"; End removes it.
 - [ ] **Atropine** → the card's Resist (Body) applies 5D staged down by Body
   successes, once. As GM, "15 minutes pass" posts the next damage card.
+- [ ] **Kamikaze** absorbs the next 4 boxes of damage; **Hyper** adds half of
+  any damage as Stun and "+1 drugs" on rolls; **Atropine** adds "+1 drugs" on
+  Active Skills and "+2 drugs" on Knowledge tests.
 - [ ] **MAO** → −1 Reaction and −1 Initiative die for 10 turns less Body
   successes.
 - [ ] **ACTH Inhaler** (6 doses) → five left after one use; selling it refunds

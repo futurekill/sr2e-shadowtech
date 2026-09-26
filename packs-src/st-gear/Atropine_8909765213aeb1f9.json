@@ -36,7 +36,19 @@
         "addiction": null,
         "tolerance": 0,
         "strength": 0,
-        "notes": "+1 TN to all Active Skill tests (+1 more for melee and close-range firearms); +2 TN to Knowledge, Technical, B/R, Language and Magic skills; hallucinations, fever. Damage repeats every 15 minutes until neutralised or filtered out (Shadowtech p.96)."
+        "notes": "TN penalties applied automatically (+1 Active, +1 more in melee and close-range firearms; +2 Knowledge, Technical, B/R, Language and Magic). Hallucinations and fever are the GM's. Damage repeats every 15 minutes until neutralised or filtered out (Shadowtech p.96).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": false,
+        "tn": {
+          "active": 1,
+          "meleeClose": 1,
+          "knowledge": 2,
+          "language": 2,
+          "build_repair": 2,
+          "technical": 2,
+          "magic": 2
+        }
       }
     }
   },

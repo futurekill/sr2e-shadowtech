@@ -98,7 +98,11 @@
         },
         "tolerance": 2,
         "strength": 4,
-        "notes": "Also negates the first 4 boxes of damage taken after it's administered (any mix of Physical and Mental) — the GM applies it. Every 4 uses cost a box off both monitors' maximum; after (Body ÷ 2) uses, cyberware and bioware stop working (Shadowtech p.99)."
+        "notes": "Negates the first 4 boxes of damage taken after it's administered (applied automatically). Every 4 uses cost a box off both monitors' maximum; after (Body ÷ 2) uses, cyberware and bioware stop working — the GM tracks these (Shadowtech p.99).",
+        "absorb": 4,
+        "stimulant": true,
+        "overload": false,
+        "tn": null
       }
     }
   },

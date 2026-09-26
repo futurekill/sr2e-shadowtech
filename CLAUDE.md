@@ -32,6 +32,8 @@ a neural item set to Cultured no longer double-reduces either.
 `tools/gen-drugs.mjs` writes the compounds and the Ares Squirt. Each drug is
 `gear` (category `drug`) whose `flags.sr2e.drug` drives the system's Use a
 dose: `{key, damage, repeatMinutes, duration, addiction, tolerance, strength,
-notes}`. Attribute effects are item Active Effects (numeric ADD, transfer
+notes, absorb, stimulant, overload, tn}` (the last four drive the system's
+absorption, overuse, Hyper overload and TN penalties; `tn` keys are listed in
+the system's `drugTnFor`). Attribute effects are item Active Effects (numeric ADD, transfer
 false). Unlike `gen-gear.mjs`, it keeps an existing file's `img`, so it is safe
 to re-run after art is set.

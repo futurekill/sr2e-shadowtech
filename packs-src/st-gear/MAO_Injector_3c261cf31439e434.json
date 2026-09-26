@@ -77,7 +77,11 @@
         "addiction": null,
         "tolerance": 0,
         "strength": 0,
-        "notes": "The injector's controlled dose inflicts no Stun damage — used to counter a random adrenal pump activation (Shadowtech p.100)."
+        "notes": "The injector's controlled dose inflicts no Stun damage — used to counter a random adrenal pump activation (Shadowtech p.100).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": false,
+        "tn": null
       }
     }
   },

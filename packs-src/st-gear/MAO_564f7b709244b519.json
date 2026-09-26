@@ -81,7 +81,11 @@
         "addiction": null,
         "tolerance": 0,
         "strength": 0,
-        "notes": "No defence against the Reaction and Initiative loss. An active adrenal pump gives only its Reaction bonus (Level 1) or acts as Level 1 for other attributes (Level 2). Further doses have no effect until it's flushed out (Shadowtech p.100)."
+        "notes": "No defence against the Reaction and Initiative loss. An active adrenal pump gives only its Reaction bonus (Level 1) or acts as Level 1 for other attributes (Level 2). Further doses have no effect until it's flushed out (Shadowtech p.100).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": false,
+        "tn": null
       }
     }
   },

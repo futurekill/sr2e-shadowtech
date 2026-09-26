@@ -36,7 +36,11 @@
         "addiction": null,
         "tolerance": 0,
         "strength": 0,
-        "notes": "Takes effect at once if inhaled, after 1 minute otherwise; an oxidizing agent applied immediately neutralises it (Shadowtech p.97)."
+        "notes": "Takes effect at once if inhaled, after 1 minute otherwise; an oxidizing agent applied immediately neutralises it (Shadowtech p.97).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": false,
+        "tn": null
       }
     }
   },

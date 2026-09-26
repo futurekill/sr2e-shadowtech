@@ -36,7 +36,11 @@
         },
         "tolerance": 2,
         "strength": 25,
-        "notes": "Instantly activates an adrenal pump (bioware) — the GM applies the pump. Not addictive, but tolerance builds (Shadowtech p.95)."
+        "notes": "Instantly activates an adrenal pump (bioware) — the GM applies the pump. Not addictive, but tolerance builds (Shadowtech p.95).",
+        "absorb": 0,
+        "stimulant": false,
+        "overload": false,
+        "tn": null
       }
     }
   },

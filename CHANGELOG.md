@@ -10,6 +10,9 @@
   - Each carries its data for the system's **Use a dose**: damage code,
     duration, addiction, tolerance and strength, plus notes for the GM.
   - Kamikaze and MAO carry their attribute and Initiative effects.
+  - Kamikaze carries its 4-box absorption and is a stimulant (a second dose
+    is overuse). Hyper carries its damage overload and TN penalties, and
+    Atropine its skill TN penalties. The system automates all of them.
   - On an sr2e version without Use a dose, they install as ordinary gear.
 - The printed first-edition codes (5D2, 4S2 …) use Staging 2, SR II's fixed
   staging, so they carry over unchanged (core p.277–278).
