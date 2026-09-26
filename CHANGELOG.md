@@ -1,6 +1,11 @@
 # Changelog
 
-## Unreleased
+## 0.7.0 — 2026-09-25
+### Changed
+- **Now requires sr2e 0.99.0.** The drugs carry data for the system's Use a
+  dose and its drug automation (Kamikaze absorption, Hyper overload and TN
+  penalties, Atropine's skill penalties), which first shipped in 0.99.0.
+
 ### Added
 - **Drugs and toxins** (Shadowtech p.95–100), in the Shadowtech Gear
   compendium: **ACTH Inhaler** (6 doses), **Atropine**, **Cyanide**, **Hyper**,
