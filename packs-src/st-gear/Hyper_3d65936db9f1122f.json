@@ -46,7 +46,9 @@
         "tn": {
           "all": 1,
           "spell": 4
-        }
+        },
+        "activatesPump": false,
+        "noRepeat": false
       }
     }
   },

@@ -48,7 +48,9 @@
           "build_repair": 2,
           "technical": 2,
           "magic": 2
-        }
+        },
+        "activatesPump": false,
+        "noRepeat": false
       }
     }
   },

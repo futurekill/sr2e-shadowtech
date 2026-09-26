@@ -102,7 +102,9 @@
         "absorb": 4,
         "stimulant": true,
         "overload": false,
-        "tn": null
+        "tn": null,
+        "activatesPump": false,
+        "noRepeat": false
       }
     }
   },

@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+### Changed
+- ACTH is flagged to switch on the adrenal pump, MAO and the MAO Injector as
+  not stacking, and the Adrenal Pump as the pump, for the system's substance
+  tracking. The Adrenal Pump's image is unchanged.
+
 ## 0.7.0 — 2026-09-25
 ### Changed
 - **Now requires sr2e 0.99.0.** The drugs carry data for the system's Use a

@@ -40,7 +40,7 @@ function bioware(b) {
   };
   return {
     _id, name: b.name, type: "bioware", img: b.img ?? "icons/svg/biohazard.svg",
-    system, effects: [], flags: {}, folder: null, sort: 0,
+    system, effects: [], flags: b.flags ?? {}, folder: null, sort: 0,
     _stats: { coreVersion: "13.351", systemId: "sr2e", systemVersion: "0.1.0", createdTime: 1784000000000, modifiedTime: 1784000000000, lastModifiedBy: null, compendiumSource: null, duplicateSource: null, exportSource: null },
     ownership: { default: 0 }, _key: `!items!${_id}`
   };
@@ -71,6 +71,7 @@ const ITEMS = [
     notes: "Secreted pheromones add +1 Charisma per Level to Charisma and Social Skill Tests (no effect on the astrally active or non-humanoids). Cultured doubles the effect (Shadowtech p.18)." },
   // ── Endocrine ────────────────────────────────────────────────────────────
   { name: "Adrenal Pump", system: "endocrine", legality: "5P-BB", triggered: true, noReactionBonus: true,
+    flags: { sr2e: { adrenalPump: true } },   // ACTH triggers it (p.95); MAO limits it (p.100)
     ratingStats: rated([[1,1.25,60000],[2,2.5,100000]], "10/16 days", "3", "5P-BB"),
     mods: { quickness: 1, strength: 1, willpower: 1, reaction: 2 },
     notes: "<strong>Triggered.</strong> When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)." },
