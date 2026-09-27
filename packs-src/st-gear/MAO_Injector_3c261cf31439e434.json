@@ -83,7 +83,8 @@
         "overload": false,
         "tn": null,
         "activatesPump": false,
-        "noRepeat": true
+        "noRepeat": true,
+        "limitsPump": true
       }
     }
   },

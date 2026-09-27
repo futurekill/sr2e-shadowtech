@@ -49,7 +49,7 @@ function drug(d) {
       duration: d.duration ?? null, addiction: d.addiction ?? null, tolerance: d.tolerance ?? 0,
       strength: d.strength ?? 0, notes: d.card ?? "",
       absorb: d.absorb ?? 0, stimulant: !!d.stimulant, overload: !!d.overload, tn: d.tn ?? null,
-      activatesPump: !!d.activatesPump, noRepeat: !!d.noRepeat } } },
+      activatesPump: !!d.activatesPump, noRepeat: !!d.noRepeat, limitsPump: !!d.limitsPump } } },
     folder: null, sort: 0, _stats: STATS, ownership: { default: 0 }, _key: `!items!${_id}`
   } };
 }
@@ -80,12 +80,12 @@ const DRUGS = [
     absorb: 4, stimulant: true,
     card: "Negates the first 4 boxes of damage taken after it's administered (applied automatically). Every 4 uses cost a box off both monitors' maximum; after (Body ÷ 2) uses, cyberware and bioware stop working — the GM tracks these (Shadowtech p.99).",
     notes: "Tailored amphetamine combat drug: +1 Body, +1 Quickness, +2 Strength, +1 Willpower, +1D6 Initiative for 10–60 minutes (10 × 1D6). Addiction 4P, Tolerance 2, Strength 4, 50¥/dose. 3-M1, 5/4 days, Street Index 5 (Shadowtech p.99)." },
-  { key: "mao", name: "MAO", cost: 280, noRepeat: true, avail: "5/36 hrs", legality: "4-M1", si: 2,
+  { key: "mao", name: "MAO", cost: 280, noRepeat: true, limitsPump: true, avail: "5/36 hrs", legality: "4-M1", si: 2,
     damage: { power: 10, level: "L", type: "stun" }, duration: { turns: 10, bodyReducesBy: 1 },
     changes: [["system.reaction.mod", -1], ["system.initiative.mod", -1]],
-    card: "No defence against the Reaction and Initiative loss. An active adrenal pump gives only its Reaction bonus (Level 1) or acts as Level 1 for other attributes (Level 2). A further dose while it lasts has no effect (applied automatically; Shadowtech p.100).",
+    card: "No defence against the Reaction and Initiative loss. An active adrenal pump gives only its Reaction bonus (Level 1) or acts as Level 1 for other attributes (Level 2), and a further dose while it lasts has no effect — both applied automatically (Shadowtech p.100).",
     notes: "Monoamine oxidase. Rating 10L Stun (printed 10L2), Speed immediate, Vector injection, 280¥/dose; −1 Reaction and −1D6 Initiative for 10 turns less Body successes. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100)." },
-  { key: "mao", name: "MAO Injector", doses: 6, cost: 320, noRepeat: true, avail: "5/36 hrs", legality: "4-M1", si: 2,
+  { key: "mao", name: "MAO Injector", doses: 6, cost: 320, noRepeat: true, limitsPump: true, avail: "5/36 hrs", legality: "4-M1", si: 2,
     duration: { turns: 10, bodyReducesBy: 1 },
     changes: [["system.reaction.mod", -1], ["system.initiative.mod", -1]],
     card: "The injector's controlled dose inflicts no Stun damage — used to counter a random adrenal pump activation (Shadowtech p.100).",

@@ -104,7 +104,8 @@
         "overload": false,
         "tn": null,
         "activatesPump": false,
-        "noRepeat": false
+        "noRepeat": false,
+        "limitsPump": false
       }
     }
   },

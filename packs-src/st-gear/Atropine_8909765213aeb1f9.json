@@ -50,7 +50,8 @@
           "magic": 2
         },
         "activatesPump": false,
-        "noRepeat": false
+        "noRepeat": false,
+        "limitsPump": false
       }
     }
   },

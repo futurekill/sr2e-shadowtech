@@ -5,6 +5,8 @@
 - ACTH is flagged to switch on the adrenal pump, MAO and the MAO Injector as
   not stacking, and the Adrenal Pump as the pump, for the system's substance
   tracking. The Adrenal Pump's image is unchanged.
+- MAO and the MAO Injector are flagged to limit an active adrenal pump
+  (p.100), which the system now applies.
 
 ## 0.7.0 — 2026-09-25
 ### Changed

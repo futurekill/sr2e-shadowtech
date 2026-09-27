@@ -42,7 +42,8 @@
         "overload": false,
         "tn": null,
         "activatesPump": true,
-        "noRepeat": false
+        "noRepeat": false,
+        "limitsPump": false
       }
     }
   },
