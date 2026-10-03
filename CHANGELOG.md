@@ -37,6 +37,26 @@
 - Dev notes: cultured bioware's ×4 price **is** applied by the system now,
   and a neural implant set to Cultured no longer double-counts.
 
+## 0.6.1 — 2026-07-31
+
+### Fixed
+- **A Softlink couldn't run a LinguaSoft.** The system found chip readers by
+  name ("chipjack", "datajack"). The Softlink now declares its access ports
+  (sr2e 0.72.0's `accessPorts`), so it counts as a reader. Ports equal its Level;
+  raise them with the Level.
+
+## 0.6.0 — 2026-07-26
+
+### Added
+- Custom art for all 52 documents, replacing Foundry's stock icons: bioware as
+  grown tissue in nutrient canisters, cyberware as machined chrome, and gear as
+  medical and pharmaceutical kit.
+
+### Fixed
+- The README said sr2e 0.36.0 was required; it is 0.38.0 (bone lacing and
+  articulation automation).
+- Releases no longer package `.DS_Store` files.
+
 ## 0.5.0 — 2026-07-16
 ### Changed
 - **Now requires sr2e 0.38.0.** Bone Lacing carries `unarmedPowerBonus` and
