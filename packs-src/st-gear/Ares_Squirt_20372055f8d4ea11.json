@@ -2,7 +2,7 @@
   "_id": "20372055f8d4ea11",
   "name": "Ares Squirt",
   "type": "weapon",
-  "img": "icons/svg/pistol.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/weapon/ares-squirt.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

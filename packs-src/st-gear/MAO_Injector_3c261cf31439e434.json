@@ -2,7 +2,7 @@
   "_id": "3c261cf31439e434",
   "name": "MAO Injector",
   "type": "gear",
-  "img": "icons/svg/pill.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/mao-injector.webp",
   "system": {
     "category": "drug",
     "rating": 0,

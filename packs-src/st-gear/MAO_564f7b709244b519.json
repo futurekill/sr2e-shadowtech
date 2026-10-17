@@ -2,7 +2,7 @@
   "_id": "564f7b709244b519",
   "name": "MAO",
   "type": "gear",
-  "img": "icons/svg/pill.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/mao.webp",
   "system": {
     "category": "drug",
     "rating": 0,

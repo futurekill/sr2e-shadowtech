@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- **Icons for the last eight items on stock art:** ACTH Inhaler, Atropine, Cyanide,
+  Hyper, Kamikaze, MAO, MAO Injector and the Ares Squirt. Every item in the module now
+  has its own art.
+
 ## 0.7.1 — 2026-09-26
 ### Changed
 - **Now requires sr2e 0.100.0**, for the substance tracking these flags drive.

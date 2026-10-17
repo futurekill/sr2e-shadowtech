@@ -2,7 +2,7 @@
   "_id": "de15746d64b8e632",
   "name": "ACTH Inhaler",
   "type": "gear",
-  "img": "icons/svg/pill.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/acth-inhaler.webp",
   "system": {
     "category": "drug",
     "rating": 0,

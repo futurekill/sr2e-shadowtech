@@ -2,7 +2,7 @@
   "_id": "c3d899d0301d5716",
   "name": "Cyanide",
   "type": "gear",
-  "img": "icons/svg/pill.svg",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/gear/cyanide.webp",
   "system": {
     "category": "drug",
     "rating": 0,
