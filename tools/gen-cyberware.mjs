@@ -17,7 +17,7 @@ function cyber(c) {
     location: c.location ?? "headware", grade: "standard",
     essenceCost: c.essenceCost ?? 0, rating: 1,
     cost: c.cost ?? 0, availability: c.avail ?? "", streetIndex: c.si ?? "",
-    legality: c.legality ?? "Legal", installed: false,
+    legality: c.legality ?? "Legal", installed: true   /* bought implants arrive installed (sr2e cybersurgery); a spare is unticked */,
     isWeapon: false, weaponType: "melee", skill: "armed combat", damageCode: "", damageType: "physical", reach: 0,
     combatTnMod: 0, isVcr: false, noReactionBonus: false,
     isTacticalComputer: c.isTacticalComputer ?? false,

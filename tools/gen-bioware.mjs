@@ -27,7 +27,7 @@ function bioware(b) {
     bodySystem: b.system, grade: "standard",
     bodyCost: b.bodyCost ?? 0, rating: 1,
     cost: b.cost ?? 0, availability: b.avail ?? "", streetIndex: b.si ?? "",
-    legality: b.legality ?? "Legal", installed: false,
+    legality: b.legality ?? "Legal", installed: true   /* bought implants arrive installed (sr2e cybersurgery); a spare is unticked */,
     triggered: b.triggered ?? false, active: false,
     ratingStats: b.ratingStats ?? [],
     armorBallistic: b.armorBallistic ?? 0, armorImpact: b.armorImpact ?? 0,

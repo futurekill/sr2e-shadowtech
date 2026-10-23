@@ -12,7 +12,7 @@
     "availability": "8/14 days",
     "streetIndex": "",
     "legality": "6P-CB",
-    "installed": false,
+    "installed": true,
     "isWeapon": false,
     "weaponType": "melee",
     "skill": "armed combat",

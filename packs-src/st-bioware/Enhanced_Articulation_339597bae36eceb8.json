@@ -12,7 +12,7 @@
     "availability": "5/6 days",
     "streetIndex": "1.5",
     "legality": "Legal",
-    "installed": false,
+    "installed": true,
     "triggered": false,
     "active": false,
     "ratingStats": [],

@@ -12,7 +12,7 @@
     "availability": "",
     "streetIndex": "",
     "legality": "4P-BC/D",
-    "installed": false,
+    "installed": true,
     "triggered": false,
     "active": false,
     "ratingStats": [

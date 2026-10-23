@@ -12,7 +12,7 @@
     "availability": "",
     "streetIndex": "",
     "legality": "SP-BA",
-    "installed": false,
+    "installed": true,
     "triggered": false,
     "active": false,
     "ratingStats": [

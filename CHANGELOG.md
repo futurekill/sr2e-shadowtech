@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.7.3 — 2026-10-23
+
+### Fixed
+- **Implants arrive installed.** Its 16 cyberware and 22 bioware items were stored as uninstalled
+  spares: buying cyberware in play skipped the cybersurgery (sr2e 0.108+), and neither counted (Essence,
+  Body Index) until someone ticked Installed. A spare is still possible: untick Installed. Re-import an
+  item to pick this up.
+
 ## 0.7.2 — 2026-10-16
 
 ### Added

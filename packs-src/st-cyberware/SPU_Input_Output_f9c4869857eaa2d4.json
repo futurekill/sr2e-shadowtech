@@ -12,7 +12,7 @@
     "availability": "",
     "streetIndex": "",
     "legality": "Legal",
-    "installed": false,
+    "installed": true,
     "isWeapon": false,
     "weaponType": "melee",
     "skill": "armed combat",

@@ -22,3 +22,6 @@ enabled. Automated: `npm run validate` and `npm run lint` (CI).
 - [ ] **ACTH Inhaler** (6 doses) → five left after one use; selling it refunds
   5/6 of the price.
 - [ ] **Ares Squirt** is a light pistol-range weapon, Conceal 7, 750¥.
+
+## Implants arrive installed (2026-10-23)
+- [ ] In play (not character creation), drag one of this module's cyberware items onto a character: the Buy dialog shows the **Cybersurgery** section and Essence drops once it's bought.

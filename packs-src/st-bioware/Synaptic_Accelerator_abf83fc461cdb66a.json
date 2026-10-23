@@ -12,7 +12,7 @@
     "availability": "",
     "streetIndex": "",
     "legality": "5P-BB",
-    "installed": false,
+    "installed": true,
     "triggered": false,
     "active": false,
     "ratingStats": [
