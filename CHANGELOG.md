@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.8.0 — 2026-11-15
+
+### Added
+- The improved datajack carries its identity (Rigger 2 p.17: Perception dice while rigging; sr2e 0.154.0, Part 4b).
+
 ## 0.7.3 — 2026-10-23
 
 ### Fixed
