@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "The elite anti-aging treatment: halts and partially reverses cellular aging. 2,000,000¥ plus 100,000¥ recurring. Street Index 2.5 (Shadowtech p.76)."
+    "notes": "The elite anti-aging treatment: halts and partially reverses cellular aging. 2,000,000¥ plus 100,000¥ recurring. Street Index 2.5 (Shadowtech p.76).",
+    "citation": {
+      "book": "st",
+      "page": "76"
+    }
   },
   "effects": [],
   "flags": {},

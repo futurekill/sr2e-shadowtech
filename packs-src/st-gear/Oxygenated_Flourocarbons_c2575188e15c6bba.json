@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Breathable oxygen-carrying liquid — lets the lungs “breathe” liquid (deep diving, high-g, drowning-proofing). 750¥ per liter. Street Index 1 (Shadowtech p.89)."
+    "notes": "Breathable oxygen-carrying liquid — lets the lungs “breathe” liquid (deep diving, high-g, drowning-proofing). 750¥ per liter. Street Index 1 (Shadowtech p.89).",
+    "citation": {
+      "book": "st",
+      "page": "89"
+    }
   },
   "effects": [],
   "flags": {},

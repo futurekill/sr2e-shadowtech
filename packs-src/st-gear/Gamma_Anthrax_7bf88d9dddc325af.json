@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A weaponized, engineered anthrax strain. 180¥/dose. Restricted (2-M3), Availability 14/30 days, Street Index 6 (Shadowtech p.81)."
+    "notes": "A weaponized, engineered anthrax strain. 180¥/dose. Restricted (2-M3), Availability 14/30 days, Street Index 6 (Shadowtech p.81).",
+    "citation": {
+      "book": "st",
+      "page": "81"
+    }
   },
   "effects": [],
   "flags": {},

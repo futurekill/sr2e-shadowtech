@@ -67,7 +67,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Marks up to (Level + Intelligence) targets and adds their Success Level in dice to attacks against them; its rating adds to Initiative (never exceeding the Reaction maximum, and no help to rigging/decking); embeds a Tactics expert system. Levels 3–4 are CLASSIFIED (2-CC / 1-CC). Extra senses and an Orientation System raise its effective level (Shadowtech p.53)."
+    "notes": "Marks up to (Level + Intelligence) targets and adds their Success Level in dice to attacks against them; its rating adds to Initiative (never exceeding the Reaction maximum, and no help to rigging/decking); embeds a Tactics expert system. Levels 3–4 are CLASSIFIED (2-CC / 1-CC). Extra senses and an Orientation System raise its effective level (Shadowtech p.53).",
+    "citation": {
+      "book": "st",
+      "page": "53"
+    }
   },
   "effects": [],
   "flags": {},

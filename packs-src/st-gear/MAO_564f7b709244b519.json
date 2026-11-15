@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Monoamine oxidase. Rating 10L Stun (printed 10L2), Speed immediate, Vector injection, 280¥/dose; −1 Reaction and −1D6 Initiative for 10 turns less Body successes. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100)."
+    "notes": "Monoamine oxidase. Rating 10L Stun (printed 10L2), Speed immediate, Vector injection, 280¥/dose; −1 Reaction and −1D6 Initiative for 10 turns less Body successes. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100).",
+    "citation": {
+      "book": "st",
+      "page": "100"
+    }
   },
   "effects": [
     {

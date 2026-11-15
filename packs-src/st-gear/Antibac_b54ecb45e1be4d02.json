@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Broad-spectrum engineered antibiotic; rating = potency vs bacterial infection. Price per Level: ×500¥ (L1–3), ×1,000¥ (L4–6), ×1,500¥ (L7–9), ×2,500¥ (L10+). Availability 4/48 hrs (Shadowtech p.77)."
+    "notes": "Broad-spectrum engineered antibiotic; rating = potency vs bacterial infection. Price per Level: ×500¥ (L1–3), ×1,000¥ (L4–6), ×1,500¥ (L7–9), ×2,500¥ (L10+). Availability 4/48 hrs (Shadowtech p.77).",
+    "citation": {
+      "book": "st",
+      "page": "77"
+    }
   },
   "effects": [],
   "flags": {},

@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 2,
-    "notes": "Silent, recoilless compressed-air dart gun from Ares Arms: load a chemical cartridge (10 shots) and the DMSO gel reservoir (20 shots; 250¥ per refill), and a solid hit delivers the compound through the skin — armoured targets are no problem. Damage is the compound's. Light pistol ranges; no firing mode is printed (single shot assumed). Shadowtech p.92."
+    "notes": "Silent, recoilless compressed-air dart gun from Ares Arms: load a chemical cartridge (10 shots) and the DMSO gel reservoir (20 shots; 250¥ per refill), and a solid hit delivers the compound through the skin — armoured targets are no problem. Damage is the compound's. Light pistol ranges; no firing mode is printed (single shot assumed). Shadowtech p.92.",
+    "citation": {
+      "book": "st",
+      "page": "92"
+    }
   },
   "effects": [],
   "flags": {},

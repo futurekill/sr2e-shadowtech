@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Confers permanent immunity to a single disease or compound (tailored hybridomas). Single treatment 40,000¥; Full Spectrum 300,000¥. Street Index 2 (Shadowtech p.75)."
+    "notes": "Confers permanent immunity to a single disease or compound (tailored hybridomas). Single treatment 40,000¥; Full Spectrum 300,000¥. Street Index 2 (Shadowtech p.75).",
+    "citation": {
+      "book": "st",
+      "page": "75"
+    }
   },
   "effects": [],
   "flags": {},

@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Electro-optical polymer that shifts colour/temperature to match its surroundings — the basis of thermoptic/chameleon camouflage. 10,000¥ per m². Street Index 7.5 (Shadowtech p.89)."
+    "notes": "Electro-optical polymer that shifts colour/temperature to match its surroundings — the basis of thermoptic/chameleon camouflage. 10,000¥ per m². Street Index 7.5 (Shadowtech p.89).",
+    "citation": {
+      "book": "st",
+      "page": "89"
+    }
   },
   "effects": [],
   "flags": {},

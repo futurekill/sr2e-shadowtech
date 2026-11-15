@@ -87,7 +87,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Reduces the Power Level of a disease/allergen/microbiological attack by 1 per 2 Levels. Max Level = unaugmented Body (0.2 Body Cost per Level, Shadowtech p.22)."
+    "notes": "Reduces the Power Level of a disease/allergen/microbiological attack by 1 per 2 Levels. Max Level = unaugmented Body (0.2 Body Cost per Level, Shadowtech p.22).",
+    "citation": {
+      "book": "st",
+      "page": "22"
+    }
   },
   "effects": [],
   "flags": {},

@@ -83,7 +83,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "I/O subprocessor: enables access to internal memory and reduces system load delay (I/O Rating 1 / 2 / 4 / 8 by Level). Fullest use requires an encephalon (Shadowtech p.51)."
+    "notes": "I/O subprocessor: enables access to internal memory and reduces system load delay (I/O Rating 1 / 2 / 4 / 8 by Level). Fullest use requires an encephalon (Shadowtech p.51).",
+    "citation": {
+      "book": "st",
+      "page": "51"
+    }
   },
   "effects": [],
   "flags": {},

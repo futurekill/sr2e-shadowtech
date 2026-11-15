@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Rewrites genetic material to fix defects or damage. Types: Cleansing (purge toxins/addictions) 50,000¥; Genetic Correction 60,000¥; Reconstruct/Healing 100,000¥; Other 50,000¥+. Availability 6/30 days, Street Index 2.5 (Shadowtech p.74)."
+    "notes": "Rewrites genetic material to fix defects or damage. Types: Cleansing (purge toxins/addictions) 50,000¥; Genetic Correction 60,000¥; Reconstruct/Healing 100,000¥; Other 50,000¥+. Availability 6/30 days, Street Index 2.5 (Shadowtech p.74).",
+    "citation": {
+      "book": "st",
+      "page": "74"
+    }
   },
   "effects": [],
   "flags": {},

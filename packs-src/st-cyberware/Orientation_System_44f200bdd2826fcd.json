@@ -50,7 +50,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Inertial/magnetic positioning + a map unit (integral chipjack takes map datasofts: city street 250¥, city block 1,000¥, single building 750¥). Displays exact position/elevation. Synergizes with a Tactical Computer (+2 to its level). Needs a display link or datajack (Shadowtech p.63)."
+    "notes": "Inertial/magnetic positioning + a map unit (integral chipjack takes map datasofts: city street 250¥, city block 1,000¥, single building 750¥). Displays exact position/elevation. Synergizes with a Tactical Computer (+2 to its level). Needs a display link or datajack (Shadowtech p.63).",
+    "citation": {
+      "book": "st",
+      "page": "63"
+    }
   },
   "effects": [],
   "flags": {},

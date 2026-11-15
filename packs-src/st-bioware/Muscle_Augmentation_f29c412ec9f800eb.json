@@ -69,7 +69,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Gortex-braided muscle: +1 Quickness and +1 Strength per Level (max Level 4; the Quickness DOES feed Reaction). Bonuses don't help rigging or decking except for lifting/carrying (Shadowtech p.35)."
+    "notes": "Gortex-braided muscle: +1 Quickness and +1 Strength per Level (max Level 4; the Quickness DOES feed Reaction). Bonuses don't help rigging or decking except for lifting/carrying (Shadowtech p.35).",
+    "citation": {
+      "book": "st",
+      "page": "35"
+    }
   },
   "effects": [],
   "flags": {},

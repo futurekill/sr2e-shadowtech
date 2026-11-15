@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Direct neural stimulator. Rating 4S Stun (printed 4S2), Speed immediate, Vector air and injection, 180¥/dose; lasts 60 minutes less 5 per Body success. 4-M1, 4/24 hrs, Street Index .9 (Shadowtech p.98)."
+    "notes": "Direct neural stimulator. Rating 4S Stun (printed 4S2), Speed immediate, Vector air and injection, 180¥/dose; lasts 60 minutes less 5 per Body success. 4-M1, 4/24 hrs, Street Index .9 (Shadowtech p.98).",
+    "citation": {
+      "book": "st",
+      "page": "98"
+    }
   },
   "effects": [],
   "flags": {

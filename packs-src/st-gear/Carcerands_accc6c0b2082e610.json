@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Molecular “cage” compounds that trap a guest molecule and release it under a chosen trigger (delivery systems, slow-release toxins). Price: see text. Street Index 2 (Shadowtech p.89)."
+    "notes": "Molecular “cage” compounds that trap a guest molecule and release it under a chosen trigger (delivery systems, slow-release toxins). Price: see text. Street Index 2 (Shadowtech p.89).",
+    "citation": {
+      "book": "st",
+      "page": "89"
+    }
   },
   "effects": [],
   "flags": {},

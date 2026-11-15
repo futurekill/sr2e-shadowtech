@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Rating 4D (printed 4D2), Speed immediate/1 minute, Vector air, ingestion, injection, 360¥/dose. Legal, 3/48 hrs, Street Index .5 (Shadowtech p.97)."
+    "notes": "Rating 4D (printed 4D2), Speed immediate/1 minute, Vector air, ingestion, injection, 360¥/dose. Legal, 3/48 hrs, Street Index .5 (Shadowtech p.97).",
+    "citation": {
+      "book": "st",
+      "page": "97"
+    }
   },
   "effects": [],
   "flags": {

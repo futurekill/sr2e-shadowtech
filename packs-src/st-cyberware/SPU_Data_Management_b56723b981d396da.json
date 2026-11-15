@@ -83,7 +83,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Data-compression subprocessor: effective memory increases by +25% / +50% / +75% / +100% by Level (adds a Load Rating to SLD). Transparent to normal use (Shadowtech p.50)."
+    "notes": "Data-compression subprocessor: effective memory increases by +25% / +50% / +75% / +100% by Level (adds a Load Rating to SLD). Transparent to normal use (Shadowtech p.50).",
+    "citation": {
+      "book": "st",
+      "page": "50"
+    }
   },
   "effects": [],
   "flags": {},

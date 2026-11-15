@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Cheap cultured single-cell/fungal protein — the sprawl's staple synthetic food. 25¥/kg, everywhere (Shadowtech p.82)."
+    "notes": "Cheap cultured single-cell/fungal protein — the sprawl's staple synthetic food. 25¥/kg, everywhere (Shadowtech p.82).",
+    "citation": {
+      "book": "st",
+      "page": "82"
+    }
   },
   "effects": [],
   "flags": {},

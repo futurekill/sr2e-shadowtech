@@ -99,7 +99,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "+1 die per Level to Perception Tests to detect/identify a smell, and +1 die per 3 Levels (round up) to taste Perception. Includes safety cut-offs to shut off intense odors. Max Level 6 (Shadowtech p.62)."
+    "notes": "+1 die per Level to Perception Tests to detect/identify a smell, and +1 die per 3 Levels (round up) to taste Perception. Includes safety cut-offs to shut off intense odors. Max Level 6 (Shadowtech p.62).",
+    "citation": {
+      "book": "st",
+      "page": "62"
+    }
   },
   "effects": [],
   "flags": {},

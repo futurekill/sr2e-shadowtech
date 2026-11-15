@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Adrenocorticotrophic hormone in an inhaler of six doses. Triggers voluntary activation of the adrenal pump. Addiction 0, Tolerance 2, Strength 25. 100¥ for 6 doses and inhaler. Legal, 5/12 hrs, Street Index 1 (Shadowtech p.95)."
+    "notes": "Adrenocorticotrophic hormone in an inhaler of six doses. Triggers voluntary activation of the adrenal pump. Addiction 0, Tolerance 2, Strength 25. 100¥ for 6 doses and inhaler. Legal, 5/12 hrs, Street Index 1 (Shadowtech p.95).",
+    "citation": {
+      "book": "st",
+      "page": "95"
+    }
   },
   "effects": [],
   "flags": {

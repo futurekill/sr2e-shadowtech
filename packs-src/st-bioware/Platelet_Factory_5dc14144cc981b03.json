@@ -32,7 +32,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Boosts the body's clotting and repair, improving its ability to handle physical damage (Shadowtech p.14)."
+    "notes": "Boosts the body's clotting and repair, improving its ability to handle physical damage (Shadowtech p.14).",
+    "citation": {
+      "book": "st",
+      "page": "14"
+    }
   },
   "effects": [],
   "flags": {},

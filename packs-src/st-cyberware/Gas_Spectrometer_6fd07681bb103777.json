@@ -99,7 +99,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Housed in the sinuses; analyzes gases at Chemistry Skill = rating + 2 from a small sniff. Needs a display link or datajack for output; a chemical reference program adds compound names. Max Level 6 (Shadowtech p.61)."
+    "notes": "Housed in the sinuses; analyzes gases at Chemistry Skill = rating + 2 from a small sniff. Needs a display link or datajack for output; a chemical reference program adds compound names. Max Level 6 (Shadowtech p.61).",
+    "citation": {
+      "book": "st",
+      "page": "61"
+    }
   },
   "effects": [],
   "flags": {},

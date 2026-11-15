@@ -123,7 +123,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Upgraded skillwires for Active skillsofts. Total accessible skillsoft ratings = Level × 2 (Classic skillwires cap at their Level). Essence = Level × 0.10 (L1–3), 0.20 (L4–6), 0.30 (L7–9); price by band (Shadowtech p.47)."
+    "notes": "Upgraded skillwires for Active skillsofts. Total accessible skillsoft ratings = Level × 2 (Classic skillwires cap at their Level). Essence = Level × 0.10 (L1–3), 0.20 (L4–6), 0.30 (L7–9); price by band (Shadowtech p.47).",
+    "citation": {
+      "book": "st",
+      "page": "47"
+    }
   },
   "effects": [],
   "flags": {},

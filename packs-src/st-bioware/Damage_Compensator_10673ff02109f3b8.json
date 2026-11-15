@@ -114,7 +114,11 @@
     "activeSkillDice": 0,
     "damageCompensator": true,
     "ignoresStunPenalty": false,
-    "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+    "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+    "citation": {
+      "book": "st",
+      "page": "7"
+    }
   },
   "effects": [],
   "flags": {},

@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "An ultra-hard ceramic-metal coating; applied to a blade or surface it dramatically improves edge/durability (and melee damage). 1,000¥ per 100 cm³. Street Index 10 (Shadowtech p.89)."
+    "notes": "An ultra-hard ceramic-metal coating; applied to a blade or surface it dramatically improves edge/durability (and melee damage). 1,000¥ per 100 cm³. Street Index 10 (Shadowtech p.89).",
+    "citation": {
+      "book": "st",
+      "page": "89"
+    }
   },
   "effects": [],
   "flags": {},

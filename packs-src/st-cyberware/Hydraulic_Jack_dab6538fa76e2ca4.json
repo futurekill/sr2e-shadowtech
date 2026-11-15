@@ -99,7 +99,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Installed in a cyberleg: multiplies max leaping distance/height by its Level, and reduces the Power Level of a fall by its Level (if you land on your feet — Athletics (5) Test). Cyberleg only (Shadowtech p.43)."
+    "notes": "Installed in a cyberleg: multiplies max leaping distance/height by its Level, and reduces the Power Level of a fall by its Level (if you land on your feet — Athletics (5) Test). Cyberleg only (Shadowtech p.43).",
+    "citation": {
+      "book": "st",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

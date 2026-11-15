@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Engineered antiviral interferon; rating = potency vs viral infection. Price per Level: ×400¥ (L1–3), ×800¥ (L4–6), ×1,200¥ (L7–9), ×2,000¥ (L10+). Street Index 2 (Shadowtech p.79)."
+    "notes": "Engineered antiviral interferon; rating = potency vs viral infection. Price per Level: ×400¥ (L1–3), ×800¥ (L4–6), ×1,200¥ (L7–9), ×2,000¥ (L10+). Street Index 2 (Shadowtech p.79).",
+    "citation": {
+      "book": "st",
+      "page": "79"
+    }
   },
   "effects": [],
   "flags": {},

@@ -60,7 +60,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Reduces the Power Level of a non-microbiological air-vectored attack by ½ the filter's Level (round down). Breathing becomes harder while it works (0.2 Body Cost per Level, Shadowtech p.33)."
+    "notes": "Reduces the Power Level of a non-microbiological air-vectored attack by ½ the filter's Level (round down). Breathing becomes harder while it works (0.2 Body Cost per Level, Shadowtech p.33).",
+    "citation": {
+      "book": "st",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

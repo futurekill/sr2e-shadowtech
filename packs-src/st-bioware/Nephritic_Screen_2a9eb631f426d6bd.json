@@ -32,7 +32,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Rebuilt kidney: +1 Body die to resist toxins and pathogens, and reduce the Power Level of pathogen/blood-toxin attacks by 1 (Shadowtech p.30)."
+    "notes": "Rebuilt kidney: +1 Body die to resist toxins and pathogens, and reduce the Power Level of pathogen/blood-toxin attacks by 1 (Shadowtech p.30).",
+    "citation": {
+      "book": "st",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

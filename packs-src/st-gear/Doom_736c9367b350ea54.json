@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A designer pathogen (bioweapon). 500¥/dose. Illegal (I-M3), Availability 14/30 days, Street Index 5 (Shadowtech p.80)."
+    "notes": "A designer pathogen (bioweapon). 500¥/dose. Illegal (I-M3), Availability 14/30 days, Street Index 5 (Shadowtech p.80).",
+    "citation": {
+      "book": "st",
+      "page": "80"
+    }
   },
   "effects": [],
   "flags": {},

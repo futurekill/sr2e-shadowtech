@@ -50,7 +50,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "A cyberdeck built into the skull. Operates exactly like a regular cyberdeck — activate it (⚡ on the Gear tab) to drive the Matrix tab. Essence is summed from its components: MPCP (Rating/10 + 0.1) + Persona Module 0.30 + Hardening 0.3 + Transfer 0.1 + Response 0.2. CAPS — MPCP max = 1.5 × Intelligence (round up); exceeding it costs +4 TN on EVERY action (automated). Persona module max = 75% of MPCP; Hardening max = ½ MPCP; Response max = MPCP/4. Active memory is MPCP × 50 Mp (dedicated); storage up to MPCP × 100 Mp. Transfer is capped by your datajack's DFR. Each Response level adds +2 Reaction while decking. Sample build shown is MPCP 6 (cost = Rating³ × 200¥ + 1,250¥); re-rate to taste (Shadowtech p.54–59)."
+    "notes": "A cyberdeck built into the skull. Operates exactly like a regular cyberdeck — activate it (⚡ on the Gear tab) to drive the Matrix tab. Essence is summed from its components: MPCP (Rating/10 + 0.1) + Persona Module 0.30 + Hardening 0.3 + Transfer 0.1 + Response 0.2. CAPS — MPCP max = 1.5 × Intelligence (round up); exceeding it costs +4 TN on EVERY action (automated). Persona module max = 75% of MPCP; Hardening max = ½ MPCP; Response max = MPCP/4. Active memory is MPCP × 50 Mp (dedicated); storage up to MPCP × 100 Mp. Transfer is capped by your datajack's DFR. Each Response level adds +2 Reaction while decking. Sample build shown is MPCP 6 (cost = Rating³ × 200¥ + 1,250¥); re-rate to taste (Shadowtech p.54–59).",
+    "citation": {
+      "book": "st",
+      "page": "54–59"
+    }
   },
   "effects": [],
   "flags": {},

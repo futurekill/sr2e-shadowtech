@@ -83,7 +83,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Math subprocessor: adds its rating to Mathematics Tests and half its rating (round down) to Technical/Technical(B&R)/Sciences — including +½ rating to the Hacking Pool. Also a precise chronometer (Shadowtech p.52)."
+    "notes": "Math subprocessor: adds its rating to Mathematics Tests and half its rating (round down) to Technical/Technical(B&R)/Sciences — including +½ rating to the Hacking Pool. Also a precise chronometer (Shadowtech p.52).",
+    "citation": {
+      "book": "st",
+      "page": "52"
+    }
   },
   "effects": [],
   "flags": {},

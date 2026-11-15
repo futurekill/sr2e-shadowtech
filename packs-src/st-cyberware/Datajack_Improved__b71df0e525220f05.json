@@ -83,7 +83,11 @@
     },
     "capacity": 0,
     "modules": [],
-    "notes": "Higher data-flow-rate datajack: DFR (Mp/turn) = 25 / 50 / 75 / 100 by Level. Still needs an encephalon or I/O SPU to reach internal memory; the DFR can't be boosted except by upgrading the jack (Shadowtech p.45)."
+    "notes": "Higher data-flow-rate datajack: DFR (Mp/turn) = 25 / 50 / 75 / 100 by Level. Still needs an encephalon or I/O SPU to reach internal memory; the DFR can't be boosted except by upgrading the jack (Shadowtech p.45).",
+    "citation": {
+      "book": "st",
+      "page": "45"
+    }
   },
   "effects": [],
   "flags": {

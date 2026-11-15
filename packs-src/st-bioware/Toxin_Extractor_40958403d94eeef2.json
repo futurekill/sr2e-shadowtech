@@ -87,7 +87,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Reduces the Power Level of a blood-borne toxin attack by 1 per 2 Levels of extractor. Max Level = unaugmented Body (0.2 Body Cost per Level, Shadowtech p.21)."
+    "notes": "Reduces the Power Level of a blood-borne toxin attack by 1 per 2 Levels of extractor. Max Level = unaugmented Body (0.2 Body Cost per Level, Shadowtech p.21).",
+    "citation": {
+      "book": "st",
+      "page": "21"
+    }
   },
   "effects": [],
   "flags": {},

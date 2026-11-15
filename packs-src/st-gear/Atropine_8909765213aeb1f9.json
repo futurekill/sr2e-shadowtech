@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Distilled alkaloid (belladonna). Rating 5D (printed 5D2), Speed special, Vector injection, 600¥/dose. Legal, 5/12 hrs, Street Index 1 (Shadowtech p.96)."
+    "notes": "Distilled alkaloid (belladonna). Rating 5D (printed 5D2), Speed special, Vector injection, 600¥/dose. Legal, 5/12 hrs, Street Index 1 (Shadowtech p.96).",
+    "citation": {
+      "book": "st",
+      "page": "96"
+    }
   },
   "effects": [],
   "flags": {

@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A six-dose MAO injector: the effect without the Stun attack. 320¥ for six doses. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100)."
+    "notes": "A six-dose MAO injector: the effect without the Stun attack. 320¥ for six doses. 4-M1, 5/36 hrs, Street Index 2 (Shadowtech p.100).",
+    "citation": {
+      "book": "st",
+      "page": "100"
+    }
   },
   "effects": [
     {

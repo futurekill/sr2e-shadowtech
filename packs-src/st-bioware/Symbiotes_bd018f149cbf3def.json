@@ -60,7 +60,11 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Tailored nanite microorganisms in the bloodstream that add dice to resist damage, disease, and toxins. Require extra nutrients — triple food cost or a tailored diet (Shadowtech p.15)."
+    "notes": "Tailored nanite microorganisms in the bloodstream that add dice to resist damage, disease, and toxins. Require extra nutrients — triple food cost or a tailored diet (Shadowtech p.15).",
+    "citation": {
+      "book": "st",
+      "page": "15"
+    }
   },
   "effects": [],
   "flags": {},

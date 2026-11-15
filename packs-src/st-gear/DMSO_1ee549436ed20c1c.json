@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A carrier solvent that soaks through unbroken skin. Mixed with a drug or toxin it ferries that agent through the skin, effectively giving it a Contact vector. 10¥+. Street Index 1.5 (Shadowtech p.89)."
+    "notes": "A carrier solvent that soaks through unbroken skin. Mixed with a drug or toxin it ferries that agent through the skin, effectively giving it a Contact vector. 10¥+. Street Index 1.5 (Shadowtech p.89).",
+    "citation": {
+      "book": "st",
+      "page": "89"
+    }
   },
   "effects": [],
   "flags": {},
