@@ -54,7 +54,11 @@
     "notes": "+1 Intelligence per Level (the Intelligence gain also raises Reaction). Level 2 additionally grants a Task Pool equal to its Level for Technical/Knowledge/B&R skills (tracked by hand) (Shadowtech p.23). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
   },
   "effects": [],
-  "flags": {},
+  "flags": {
+    "sr2e": {
+      "rule": "cerebral-booster"
+    }
+  },
   "folder": null,
   "sort": 0,
   "_stats": {
