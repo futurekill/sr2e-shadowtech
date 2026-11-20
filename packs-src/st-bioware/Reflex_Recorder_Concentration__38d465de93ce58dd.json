@@ -1,0 +1,67 @@
+{
+  "_id": "38d465de93ce58dd",
+  "name": "Reflex Recorder (Concentration)",
+  "type": "bioware",
+  "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/reflex-recorder-general.webp",
+  "system": {
+    "bodySystem": "neural",
+    "grade": "standard",
+    "bodyCost": 0.1,
+    "rating": 1,
+    "cost": 10000,
+    "availability": "5/6 days",
+    "streetIndex": "1.5",
+    "legality": "Legal",
+    "installed": true,
+    "triggered": false,
+    "active": false,
+    "ratingStats": [],
+    "armorBallistic": 0,
+    "armorImpact": 0,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "noReactionBonus": false,
+    "activeSkillDice": 0,
+    "damageCompensator": false,
+    "ignoresStunPenalty": false,
+    "notes": "Permanently adds +1 die to every Success Test with one chosen Concentration of one Active or Vehicle Skill (not B/R) — that concentration's rolls and its specialization's. Set the skill and its concentration once, on the item; only surgical reprogramming changes them. Not cumulative; not compatible with skillwires (Shadowtech p.27). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+    "citation": {
+      "book": "st",
+      "page": "27"
+    },
+    "recorderSize": "concentration",
+    "recordedSkill": "",
+    "recordedConcentration": ""
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "rule": "reflex-recorder"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1784000000000,
+    "modifiedTime": 1784000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!38d465de93ce58dd"
+}

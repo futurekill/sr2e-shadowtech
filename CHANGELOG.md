@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased
+
+Needs sr2e 0.161.0 (the Reflex Recorder's rules); raise `relationships.systems` minimum to 0.161.0 at release.
+
+### Added
+- **Reflex Recorder (Concentration)** (p.27: Body Cost .1, 10,000¥, Availability 5/6 days): learns one concentration
+  of one skill. Both recorders carry the system's `reflex-recorder` rule and its fields (size, recorded skill,
+  recorded concentration), so the system gives their die; the General one's notes say how to set it.
+
 ## 0.9.0 — 2026-11-15
 
 Requires sr2e 0.156.0 (citations).

@@ -36,6 +36,7 @@ function bioware(b) {
     activeSkillDice: b.activeSkillDice ?? 0,
     damageCompensator: b.damageCompensator ?? false,
     ignoresStunPenalty: b.ignoresStunPenalty ?? false,
+    ...(b.recorderSize ? { recorderSize: b.recorderSize, recordedSkill: "", recordedConcentration: "" } : {}),   // Reflex Recorder (p.27)
     notes: stripTags(b.notes + (b.neural ? NEURAL : ""))
   };
   return {
@@ -105,8 +106,10 @@ const ITEMS = [
   { name: "Pain Editor", system: "neural", neural: true, triggered: true, ignoresStunPenalty: true, bodyCost: 0.6, cost: 60000, avail: "6/6 days", si: "1.2", legality: "6P-BA",
     mods: { willpower: 1, intelligence: -1 },
     notes: "<strong>Triggered.</strong> While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26)." },
-  { name: "Reflex Recorder (General)", system: "neural", neural: true, bodyCost: 0.25, cost: 25000, avail: "8/6 days", si: "1.5", legality: "Legal",
+  { name: "Reflex Recorder (General)", system: "neural", neural: true, recorderSize: "general", flags: { sr2e: { rule: "reflex-recorder" } }, bodyCost: 0.25, cost: 25000, avail: "8/6 days", si: "1.5", legality: "Legal",
     notes: "Permanently adds +1 die to one chosen Active or Vehicle Skill (not B&R). General model = a whole skill. <em>Concentration model: Body Cost 0.1, 10,000¥, Avail 5/6 days — one Concentration only.</em> Not cumulative and incompatible with skillwires (Shadowtech p.27)." },
+  { name: "Reflex Recorder (Concentration)", system: "neural", neural: true, recorderSize: "concentration", flags: { sr2e: { rule: "reflex-recorder" } }, bodyCost: 0.1, cost: 10000, avail: "5/6 days", si: "1.5", legality: "Legal",
+    notes: "Permanently adds +1 die to every Success Test with one chosen Concentration of one Active or Vehicle Skill (not B/R). Not cumulative; not compatible with skillwires (Shadowtech p.27)." },
   { name: "Synaptic Accelerator", system: "neural", neural: true, legality: "5P-BB",
     ratingStats: rated([[1,0.3,75000],[2,1.6,200000]], "6/12 days", "2", "5P-BB"),
     mods: { initiativeDice: 1 },

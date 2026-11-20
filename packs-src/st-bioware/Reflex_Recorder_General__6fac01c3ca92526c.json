@@ -32,14 +32,21 @@
     "activeSkillDice": 0,
     "damageCompensator": false,
     "ignoresStunPenalty": false,
-    "notes": "Permanently adds +1 die to one chosen Active or Vehicle Skill (not B&R). General model = a whole skill. Concentration model: Body Cost 0.1, 10,000¥, Avail 5/6 days — one Concentration only. Not cumulative and incompatible with skillwires (Shadowtech p.27). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+    "notes": "Permanently adds +1 die to every Success Test with one chosen Active or Vehicle Skill (not B/R). General model = a whole skill (its concentration and specialization rolls too). Set the skill once, on the item (Recorded skill); only surgical reprogramming changes it. Not cumulative on one skill; not compatible with skillwires (no bonus to a skill from a chip). Concentration model: its own item (Shadowtech p.27). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
     "citation": {
       "book": "st",
       "page": "27"
-    }
+    },
+    "recorderSize": "general",
+    "recordedSkill": "",
+    "recordedConcentration": ""
   },
   "effects": [],
-  "flags": {},
+  "flags": {
+    "sr2e": {
+      "rule": "reflex-recorder"
+    }
+  },
   "folder": null,
   "sort": 0,
   "_stats": {
