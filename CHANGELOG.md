@@ -1,8 +1,8 @@
 # Changelog
 
-## Unreleased
+## 0.10.0 — 2026-11-20
 
-Needs sr2e 0.161.0 (the Reflex Recorder's rules); raise `relationships.systems` minimum to 0.161.0 at release.
+Requires sr2e 0.161.0 (the Reflex Recorder's rules).
 
 ### Added
 - **Reflex Recorder (Concentration)** (p.27: Body Cost .1, 10,000¥, Availability 5/6 days): learns one concentration
